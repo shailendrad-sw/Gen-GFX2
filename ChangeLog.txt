@@ -1,0 +1,45 @@
+Version - 20.24.4.1
+
+1) Dongle Code & Library Added
+2) AJA Code and Library Added
+3) Audio Settings Code Added
+4) AJA Audio Syncout Issue Resolved
+
+Version - 20.24.4.2
+1) Graphics shrink with squeeze control added
+
+Version-20.24.5.1
+1) Added delay in template's command between start and stop if comes less then 400 ms
+
+Version-20.24.6.1
+1) Aston Autoclosed when reach full duration
+
+Version-20.24.8.1
+1) MultiInstance running prevention.
+
+Version -20.24.9.1
+1) PIP with Audio
+
+Version -20.24.9.1
+1) Text from file added.
+2) MySQL8 added
+
+20.24.12.2
+1) Subtitle issue of extra charecter in utf encoding
+2) Subtitle issue of blank template resolved.
+
+20.24.12.3
+1) New CNF file for mysql8 updated.
+
+Version - 20.25.1.1
+1) Added User Manual Document in Help Menu.
+2) Resolved the issue in Adding a New Channel and Removing the previous channel automatically.
+3) Added Delete functionality for channels from ChannelMaster along with respective directory.
+
+Version - 20.25.1.2
+Multi cg component handling added.
+version-20.25.3.3
+max two instances allowed.
+version-20.25.5.1
+provision for setting cpu affinity.
+
