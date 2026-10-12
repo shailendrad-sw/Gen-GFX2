@@ -1,0 +1,225 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="GridFormate" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="GridFormate">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ColumnName" type="xs:string" minOccurs="0" />
+                <xs:element name="DisplayText" type="xs:string" minOccurs="0" />
+                <xs:element name="ColumnWidth" type="xs:string" minOccurs="0" />
+                <xs:element name="Visible" type="xs:string" minOccurs="0" />
+                <xs:element name="ToolTipText" type="xs:string" minOccurs="0" />
+                <xs:element name="Resizable" type="xs:string" minOccurs="0" />
+                <xs:element name="Frozen" type="xs:string" minOccurs="0" />
+                <xs:element name="mapindex" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <GridFormate>
+    <ColumnName>SecStatus</ColumnName>
+    <DisplayText>Status</DisplayText>
+    <ColumnWidth>120</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText>Status</ToolTipText>
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecTemplate</ColumnName>
+    <DisplayText>Template Name</DisplayText>
+    <ColumnWidth>123</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText>Template Name Design By Server</ToolTipText>
+    <Resizable>True</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>7</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecEventTime</ColumnName>
+    <DisplayText>Event Time</DisplayText>
+    <ColumnWidth>83</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText>Primary Packet Start Time</ToolTipText>
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>6</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecOffset</ColumnName>
+    <DisplayText>SecOffset</DisplayText>
+    <ColumnWidth>68</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>8</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecDuration</ColumnName>
+    <DisplayText>Duration</DisplayText>
+    <ColumnWidth>82</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>9</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecStartTime</ColumnName>
+    <DisplayText>Start Time</DisplayText>
+    <ColumnWidth>83</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecStartDate</ColumnName>
+    <DisplayText>Start Date</DisplayText>
+    <ColumnWidth>77</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText xml:space="preserve"> </ToolTipText>
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecEndTime</ColumnName>
+    <DisplayText>End Time</DisplayText>
+    <ColumnWidth>83</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText xml:space="preserve"> </ToolTipText>
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecEndDate</ColumnName>
+    <DisplayText>End Date</DisplayText>
+    <ColumnWidth>71</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecTemplateValue</ColumnName>
+    <DisplayText>Template Value</DisplayText>
+    <ColumnWidth>100</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText />
+    <Resizable>True</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>11</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecRecKey</ColumnName>
+    <DisplayText>ReconcileKey</DisplayText>
+    <ColumnWidth>85</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>5</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecIsHide</ColumnName>
+    <DisplayText>IsHide</DisplayText>
+    <ColumnWidth>48</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecPrimaryID</ColumnName>
+    <DisplayText>Primary ID</DisplayText>
+    <ColumnWidth>83</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>3</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecPriDuration</ColumnName>
+    <DisplayText>Primary Duration</DisplayText>
+    <ColumnWidth>125</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>12</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecChannelID</ColumnName>
+    <DisplayText>Channel ID</DisplayText>
+    <ColumnWidth>83</ColumnWidth>
+    <Visible>True</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecDeleteCheck</ColumnName>
+    <DisplayText>Delete Check</DisplayText>
+    <ColumnWidth>80</ColumnWidth>
+    <Visible>False</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecTotalStartTime</ColumnName>
+    <DisplayText>Start Time</DisplayText>
+    <ColumnWidth>150</ColumnWidth>
+    <Visible>False</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecTotalEndTime</ColumnName>
+    <DisplayText>End Time</DisplayText>
+    <ColumnWidth>150</ColumnWidth>
+    <Visible>False</Visible>
+    <ToolTipText />
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+    <GridFormate>
+    <ColumnName>SecLoadtime</ColumnName>
+    <DisplayText>Load Time</DisplayText>
+    <ColumnWidth>120</ColumnWidth>
+    <Visible>False</Visible>
+    <ToolTipText>Time to Load</ToolTipText>
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+  <GridFormate>
+    <ColumnName>SecLoadDate</ColumnName>
+    <DisplayText>Load Date</DisplayText>
+    <ColumnWidth>120</ColumnWidth>
+    <Visible>False</Visible>
+    <ToolTipText>Load Date</ToolTipText>
+    <Resizable>False</Resizable>
+    <Frozen>False</Frozen>
+    <mapindex>NA</mapindex>
+  </GridFormate>
+</NewDataSet>

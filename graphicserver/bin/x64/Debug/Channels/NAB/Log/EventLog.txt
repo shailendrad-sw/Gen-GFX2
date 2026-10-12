@@ -1,0 +1,15 @@
+[24-08-2026 16:02:24][00:00:00:00] -- [ReceiveAgentData()], ==========>>Received AgentPacket from 192.168.15.146  START||LINERTEXT||LINERTEXT||BUG.TXT||||TOYOTA-CANADA-BUG||00:00:30:00||||||1099-W||16:02:24:00||||MLC 2026 - M8 - UNICORNS VS SUPER KINGS
+[24-08-2026 16:02:24][00:00:00:00] -- [ExecuteOpration()], Normal route,cue unavailable
+[24-08-2026 16:02:49][00:00:00:00] -- [UpdateXmlFile1()], updating value bugid of typeVIDEO by TOYOTA-CANADA-BUG
+[24-08-2026 16:02:55][00:00:00:00] -- [ContentInfo()], File not found in Local Storage for update template filename=TOYOTA-CANADA-BUG
+[24-08-2026 16:02:55][00:00:00:00] -- [ContentInfo()], File not found in Secondary Storage[NAS] for update template filename=TOYOTA-CANADA-BUG
+[24-08-2026 16:03:58][00:00:00:00] -- [ContentInfo()], File not found in Local Storage for update template filename=TOYOTA-CANADA-BUG
+[24-08-2026 16:04:03][00:00:00:00] -- [ContentInfo()], File not found in Secondary Storage[NAS] for update template filename=TOYOTA-CANADA-BUG
+[24-08-2026 16:08:39][00:00:00:00] -- [LoadCgitems()], Template Name=>BUG played at LTC Time=>00:00:00:00, SystemTime 16:08:39 
+[24-08-2026 16:08:39][00:00:00:00] -- [FillSecondaryGrid()], Adding Template Info(templatename=BUG,starttime=16:02:24:00,startdate=24-08-2026 , templatevalue=TOYOTA-CANADA-BUG ,channelname=NAB )
+
+[24-08-2026 16:08:39][00:00:00:00] -- [ReceiveAgentData()], ==========>>Received AgentPacket from 192.168.15.146  STOP||LINERTEXT||LINERTEXT||BUG.TXT||||TOYOTA-CANADA-BUG||00:00:30:00||||||||||||
+[24-08-2026 16:08:39][00:00:00:00] -- [ExecuteOpration()], Receive Instruction for stop Template:BUG ,Bugtype VIDEO 
+[24-08-2026 16:08:39][00:00:00:00] -- [KillCgitems()], Templatename=BUG killed at LTC Time=00:00:00:00 info ( enddate= ,endtime= ,status=)
+[24-08-2026 16:08:39][00:00:00:00] -- [KillCgitems()], Template Name BUG Bug Type=VIDEO  Total ElementCount =1Timeline Count= 0 
+[24-08-2026 16:08:39][00:00:00:00] -- [RowsCheckOnFireEvent()], templatename=BUG remove in Grid .

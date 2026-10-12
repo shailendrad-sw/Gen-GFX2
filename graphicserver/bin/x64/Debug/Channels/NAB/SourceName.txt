@@ -1,0 +1,2 @@
+Source Type=SDI
+Source Name=DeckLink Studio 4K (2)

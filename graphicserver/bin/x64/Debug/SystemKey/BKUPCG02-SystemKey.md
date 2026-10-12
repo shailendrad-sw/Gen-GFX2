@@ -1,0 +1,5 @@
+[PLANETCAST SYSTEM KEY]
+
+License.NodeName=BKUPCG02
+License.ActiveIP=192.168.15.5 
+License.SystemID=T/QFtVYZLrHURyVxrghCbADZuj/RH1C3eQI9TZsbthM==

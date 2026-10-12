@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ApplicationMode>
+    <ExternalAgentMode>TRUE</ExternalAgentMode>
+    <PreviewWindow>TRUE</PreviewWindow>
+  </ApplicationMode>
+  <ConfigData>
+    <SrNo>1</SrNo>
+    <ChannelName>BEIN</ChannelName>
+    <ChannelType>HD</ChannelType>
+    <VideoFormat>PAL</VideoFormat>
+    <MultiCastIP>232.1.1.2</MultiCastIP>
+    <EnableMultiCast>False</EnableMultiCast>
+    <DbOnlyForAsrun>False</DbOnlyForAsrun>
+    <EnableDb>TRUE</EnableDb>
+    <DbType>MYSQL8</DbType>
+    <DbIPAddress>192.168.15.251</DbIPAddress>
+    <DbPort>3306</DbPort>
+    <DbUsername>db_user</DbUsername>
+    <DbPassword>Dbuser@123</DbPassword>
+    <DbName>mediaxdb_cloud2710</DbName>
+    <GraphicsTable />
+    <ReceivingPort>11001</ReceivingPort>
+    <LTCPort>15008</LTCPort>
+    <CheckEventInterval>10</CheckEventInterval>
+    <KeyingMode>FALSE</KeyingMode>
+    <KeyerPort>53000</KeyerPort>
+    <KeyerHeartBeat>FALSE</KeyerHeartBeat>
+    <AddDelayInCommand>True</AddDelayInCommand>
+    <Protocol>UDP</Protocol>
+    <HttpPort>1234</HttpPort>
+    <ReconcileKeyCheck>FALSE</ReconcileKeyCheck>
+    <OverlappingCheck>FALSE</OverlappingCheck>
+    <SubtitleCheck>FALSE</SubtitleCheck>
+    <PMSPacketOn>FALSE</PMSPacketOn>
+    <NdiOutputName>MBIV GRAPHICS SERVER OUTPUT</NdiOutputName>
+    <AutoUpdateTemplate>False</AutoUpdateTemplate>
+    <TemplateRefreshInterval>60000</TemplateRefreshInterval>
+    <CueOffSet>75</CueOffSet>
+    <PromoPrefix />
+    <ProgramPrefix />
+    <CommercialPrefix />
+    <TemplatePath>D:\RUNNINGCHANNELS\GFX\Template</TemplatePath>
+    <ContentPath>D:\RUNNINGCHANNELS\GFX\ELEMENT</ContentPath>
+    <SubtitlePath />
+    <SecondaryContentPath>D:\RUNNINGCHANNELS\GFX\ELEMENT</SecondaryContentPath>
+    <AutoCloseAston>TRUE</AutoCloseAston>
+    <GfxSqueeze>FALSE</GfxSqueeze>
+    <CNFPath>C:\Program Files\Planetcast\mylogin.cnf</CNFPath>
+    <Delayincommand>1000</Delayincommand>
+    <KeyerType>DISABLE</KeyerType>
+  </ConfigData>
+  <ScteSetting>
+    <ScteEnable>FALSE</ScteEnable>
+    <ScteTemplateName>SCTEON</ScteTemplateName>
+    <ScteIP>192.168.15.23</ScteIP>
+    <SctePort>4444</SctePort>
+    <SctePreRoll>30</SctePreRoll>
+  </ScteSetting>
+  <ASRun>
+    <ASRunEnable>TRUE</ASRunEnable>
+    <AsRunType>FILE</AsRunType>
+    <AsRunFolderPath>D:\RUNNINGCHANNELS\ASRUN\DEMO</AsRunFolderPath>
+    <AsRunTableName>tbl_asrun</AsRunTableName>
+    <AsRunDateTimeColumn>AsRunDateTime</AsRunDateTimeColumn>
+    <AsRunTemplateNameColumn>AsRunTemplateName</AsRunTemplateNameColumn>
+    <AsRunFilenameColumn>AsRunFilename</AsRunFilenameColumn>
+    <AsRunTemplateFileNameColumn>AsRunTemplateFileName</AsRunTemplateFileNameColumn>
+    <AsRunStatusColumn>AsRunStatus</AsRunStatusColumn>
+    <AsRunDurationColumn>AsRunDuration</AsRunDurationColumn>
+    <AsRunReconcileKeyColumn>AsRunReconcileKey</AsRunReconcileKeyColumn>
+    <AsRunChannelNameMam>TEST</AsRunChannelNameMam>
+    <AsRunManualEnable>FALSE</AsRunManualEnable>
+    <AsRunTakeTime>SYSTEM-TIME</AsRunTakeTime>
+  </ASRun>
+  <SubtitleSetting>
+    <SubtitleEnable>FALSE</SubtitleEnable>
+    <SubtitleMode>AUTOMATION</SubtitleMode>
+    <SubtitleFileType>SRT</SubtitleFileType>
+    <SubtitlePort>5100</SubtitlePort>
+    <SubtitleStartOffset>0</SubtitleStartOffset>
+    <SubtitleEndOffset>0</SubtitleEndOffset>
+    <SubtitleSuffix />
+    <SubtitleTemplate>Subtitle</SubtitleTemplate>
+    <Priority_BOTH_case>SRT</Priority_BOTH_case>
+    <EncodingChange>FALSE</EncodingChange>
+  </SubtitleSetting>
+  <NetworkStream>
+    <StreamEnable>FALSE</StreamEnable>
+    <StreamType>SRT</StreamType>
+    <StreamURL>srt://192.168.27.154:12000</StreamURL>
+    <StreamConfig>h264</StreamConfig>
+    <VideoBitrate>5M</VideoBitrate>
+  </NetworkStream>
+  <GFXClient>
+    <GFXClientEnable>FALSE</GFXClientEnable>
+    <GFXClientPort>8585</GFXClientPort>
+    <GFXClientIP>192.168.15.205</GFXClientIP>
+  </GFXClient>
+  <AudioSetting>
+    <AudioSettingEnable>FALSE</AudioSettingEnable>
+    <AudioChannel>2</AudioChannel>
+    <SamplePerSecond>48000</SamplePerSecond>
+    <BitsPerSample>16</BitsPerSample>
+    <AudioBitrate>0</AudioBitrate>
+  </AudioSetting>
+  <AJASettings>
+    <AJASettingsEnable>TRUE</AJASettingsEnable>
+    <AJACardReference>1</AJACardReference>
+  </AJASettings>
+</DocumentElement>

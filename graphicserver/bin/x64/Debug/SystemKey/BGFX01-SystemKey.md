@@ -1,0 +1,5 @@
+[PLANETCAST SYSTEM KEY]
+
+License.NodeName=BGFX01
+License.ActiveIP=192.168.15.146 
+License.SystemID=iuU6X9EggT3rmkVI00FxF5hBxxIsbM7vp+2oLIWT9RU=9

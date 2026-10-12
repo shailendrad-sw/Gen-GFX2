@@ -1,0 +1,18 @@
+<cg-composition name="logo" comment="">
+  <video-output background="Black(0)" top-video="no">
+    <input-rect left="0.000%" right="0.000%" top="0.000%" bottom="0.000%" />
+    <output-rect left="0.000%" right="0.000%" top="0.000%" bottom="0.000%" />
+  </video-output>
+  <cg-items>
+    <cg-item id="logovideo">
+      <img path="D:\RUNNINGCHANNELS\GFX\ELEMENT\ANIMATION\beinleft.png" in="0.0" out="0.0" />
+      <cg-props pos-x="0" pos-y="0" show="yes" move-type="accel-both" alpha="255" bg-color="Black(0)" pixel-ar="0.0" play-mode="loop" interlace="auto" scale="exact-fit" align="top-left" width="1920" height="1080" pause="no" edges-smooth="0">
+        <indent left="0" right="0" top="0" bottom="0" use-for-bg="no" />
+        <group-indent left="0" right="0" top="0" bottom="0" />
+      </cg-props>
+      <_cg-props>
+        <orignalrect>{X=0,Y=0,Width=1920,Height=1080}</orignalrect>
+      </_cg-props>
+    </cg-item>
+  </cg-items>
+</cg-composition>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ConfigData" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ConfigData">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="SrNo" type="xs:string" minOccurs="0" />
+                <xs:element name="TemplateName" type="xs:string" minOccurs="0" />
+                <xs:element name="LayerNo" type="xs:string" minOccurs="0" />
+                <xs:element name="FileExtension" type="xs:string" minOccurs="0" />
+                <xs:element name="ChannelName" type="xs:string" minOccurs="0" />
+                <xs:element name="BugType" type="xs:string" minOccurs="0" />
+                <xs:element name="KillwithPrimary" type="xs:string" minOccurs="0" />
+                <xs:element name="ShowOnBreak" type="xs:string" minOccurs="0" />
+                <xs:element name="BugStatus" type="xs:string" minOccurs="0" />
+                <xs:element name="Param1" type="xs:string" minOccurs="0" />
+                <xs:element name="Param2" type="xs:string" minOccurs="0" />
+                <xs:element name="Param3" type="xs:string" minOccurs="0" />
+                <xs:element name="Param4" type="xs:string" minOccurs="0" />
+                <xs:element name="Param5" type="xs:string" minOccurs="0" />
+                <xs:element name="Param6" type="xs:string" minOccurs="0" />
+                <xs:element name="Param7" type="xs:string" minOccurs="0" />
+                <xs:element name="Param8" type="xs:string" minOccurs="0" />
+                <xs:element name="Param9" type="xs:string" minOccurs="0" />
+                <xs:element name="Param10" type="xs:string" minOccurs="0" />
+                <xs:element name="DBTemplate" type="xs:string" minOccurs="0" />
+                <xs:element name="DBTableName" type="xs:string" minOccurs="0" />
+                <xs:element name="DBColumnName" type="xs:string" minOccurs="0" />
+                <xs:element name="DBCondition" type="xs:string" minOccurs="0" />
+                <xs:element name="IntroTime" type="xs:string" minOccurs="0" />
+                <xs:element name="ExitTime" type="xs:string" minOccurs="0" />
+                <xs:element name="DurationBased" type="xs:string" minOccurs="0" />
+                <xs:element name="EndOffset" type="xs:string" minOccurs="0" />
+                <xs:element name="StartOffset" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ConfigData>
+    <SrNo>1</SrNo>
+    <TemplateName>Logo</TemplateName>
+    <LayerNo>3</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>Channel</ChannelName>
+    <BugType>LOGO</BugType>
+    <KillwithPrimary>false</KillwithPrimary>
+    <ShowOnBreak>false</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1/>
+    <Param2 />
+    <Param3 />
+    <Param4 />
+    <Param5 />
+    <Param6 />
+    <Param7 />
+    <Param8 />
+    <Param9 />
+    <Param10 />
+    <DBTemplate>false</DBTemplate>
+    <DBTableName />
+    <DBColumnName />
+    <DBCondition />
+    <IntroTime />
+    <ExitTime />
+    <DurationBased>false</DurationBased>
+    <EndOffset />
+    <StartOffset />
+  </ConfigData>
+ </NewDataSet>

@@ -1,0 +1,136 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ConfigData" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ConfigData">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="SrNo" type="xs:string" minOccurs="0" />
+                <xs:element name="ReceiveText" type="xs:string" minOccurs="0" />
+                <xs:element name="ScreenPosition" type="xs:string" minOccurs="0" />
+                <xs:element name="ItemPosition" type="xs:string" minOccurs="0" />
+                <xs:element name="left" type="xs:string" minOccurs="0" />
+                <xs:element name="right" type="xs:string" minOccurs="0" />
+                <xs:element name="top" type="xs:string" minOccurs="0" />
+                <xs:element name="bottom" type="xs:string" minOccurs="0" />
+                <xs:element name="useforbg" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ConfigData>
+    <SrNo>1</SrNo>
+    <ReceiveText>{\an1}</ReceiveText>
+    <ScreenPosition>bottom-left</ScreenPosition>
+    <ItemPosition>auto</ItemPosition>
+    <left>0</left>
+    <right>0</right>
+    <top>0</top>
+    <bottom>50</bottom>
+    <useforbg>yes</useforbg>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>2</SrNo>
+    <ReceiveText>{\an2}</ReceiveText>
+    <ScreenPosition>bottom</ScreenPosition>
+    <ItemPosition>auto</ItemPosition>
+    <left>0</left>
+    <right>0</right>
+    <top>0</top>
+    <bottom>200</bottom>
+    <useforbg>yes</useforbg>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>3</SrNo>
+    <ReceiveText>{\an3}</ReceiveText>
+    <ScreenPosition>bottom-right</ScreenPosition>
+    <ItemPosition>auto</ItemPosition>
+    <left>0</left>
+    <right>0</right>
+    <top>0</top>
+    <bottom>250</bottom>
+    <useforbg>yes</useforbg>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>4</SrNo>
+    <ReceiveText>{\an4}</ReceiveText>
+    <ScreenPosition>center-left</ScreenPosition>
+    <ItemPosition>auto</ItemPosition>
+    <left>0</left>
+    <right>0</right>
+    <top>0</top>
+    <bottom>0</bottom>
+    <useforbg>yes</useforbg>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>5</SrNo>
+    <ReceiveText>{\an5}</ReceiveText>
+    <ScreenPosition>center</ScreenPosition>
+    <ItemPosition>auto</ItemPosition>
+    <left>0</left>
+    <right>0</right>
+    <top>0</top>
+    <bottom>0</bottom>
+    <useforbg>yes</useforbg>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>6</SrNo>
+    <ReceiveText>{\an6}</ReceiveText>
+    <ScreenPosition>center-right</ScreenPosition>
+    <ItemPosition>auto</ItemPosition>
+    <left>0</left>
+    <right>0</right>
+    <top>0</top>
+    <bottom>0</bottom>
+    <useforbg>yes</useforbg>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>7</SrNo>
+    <ReceiveText>{\an7}</ReceiveText>
+    <ScreenPosition>top-left</ScreenPosition>
+    <ItemPosition>auto</ItemPosition>
+    <left>0</left>
+    <right>0</right>
+    <top>0</top>
+    <bottom>0</bottom>
+    <useforbg>yes</useforbg>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>8</SrNo>
+    <ReceiveText>{\an8}</ReceiveText>
+    <ScreenPosition>top</ScreenPosition>
+    <ItemPosition>auto</ItemPosition>
+    <left>0</left>
+    <right>0</right>
+    <top>0</top>
+    <bottom>0</bottom>
+    <useforbg>yes</useforbg>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>9</SrNo>
+    <ReceiveText>{\an9}</ReceiveText>
+    <ScreenPosition>top-right</ScreenPosition>
+    <ItemPosition>auto</ItemPosition>
+    <left>0</left>
+    <right>0</right>
+    <top>0</top>
+    <bottom>0</bottom>
+    <useforbg>yes</useforbg>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>10</SrNo>
+    <ReceiveText>CIP</ReceiveText>
+    <ScreenPosition>top</ScreenPosition>
+    <ItemPosition>auto</ItemPosition>
+    <left>0</left>
+    <right>0</right>
+    <top>0</top>
+    <bottom>0</bottom>
+    <useforbg>YES</useforbg>
+  </ConfigData>
+</NewDataSet>

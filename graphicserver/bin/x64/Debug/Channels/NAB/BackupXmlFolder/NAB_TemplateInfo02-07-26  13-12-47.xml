@@ -1,0 +1,187 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ConfigData" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ConfigData">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="SrNo" type="xs:int" minOccurs="0" />
+                <xs:element name="TemplateName" type="xs:string" minOccurs="0" />
+                <xs:element name="LayerNo" type="xs:string" minOccurs="0" />
+                <xs:element name="FileExtension" type="xs:string" minOccurs="0" />
+                <xs:element name="ChannelName" type="xs:string" minOccurs="0" />
+                <xs:element name="BugType" type="xs:string" minOccurs="0" />
+                <xs:element name="KillwithPrimary" type="xs:string" minOccurs="0" />
+                <xs:element name="ShowOnBreak" type="xs:string" minOccurs="0" />
+                <xs:element name="BugStatus" type="xs:string" minOccurs="0" />
+                <xs:element name="Param1" type="xs:string" minOccurs="0" />
+                <xs:element name="Param2" type="xs:string" minOccurs="0" />
+                <xs:element name="Param3" type="xs:string" minOccurs="0" />
+                <xs:element name="Param4" type="xs:string" minOccurs="0" />
+                <xs:element name="Param5" type="xs:string" minOccurs="0" />
+                <xs:element name="Param6" type="xs:string" minOccurs="0" />
+                <xs:element name="Param7" type="xs:string" minOccurs="0" />
+                <xs:element name="Param8" type="xs:string" minOccurs="0" />
+                <xs:element name="Param9" type="xs:string" minOccurs="0" />
+                <xs:element name="Param10" type="xs:string" minOccurs="0" />
+                <xs:element name="Param11" type="xs:string" minOccurs="0" />
+                <xs:element name="Param12" type="xs:string" minOccurs="0" />
+                <xs:element name="Param13" type="xs:string" minOccurs="0" />
+                <xs:element name="Param14" type="xs:string" minOccurs="0" />
+                <xs:element name="Param15" type="xs:string" minOccurs="0" />
+                <xs:element name="Param16" type="xs:string" minOccurs="0" />
+                <xs:element name="Param17" type="xs:string" minOccurs="0" />
+                <xs:element name="Param18" type="xs:string" minOccurs="0" />
+                <xs:element name="Param19" type="xs:string" minOccurs="0" />
+                <xs:element name="Param20" type="xs:string" minOccurs="0" />
+                <xs:element name="Param21" type="xs:string" minOccurs="0" />
+                <xs:element name="Param22" type="xs:string" minOccurs="0" />
+                <xs:element name="Param23" type="xs:string" minOccurs="0" />
+                <xs:element name="Param24" type="xs:string" minOccurs="0" />
+                <xs:element name="Param25" type="xs:string" minOccurs="0" />
+                <xs:element name="Param26" type="xs:string" minOccurs="0" />
+                <xs:element name="Param27" type="xs:string" minOccurs="0" />
+                <xs:element name="Param28" type="xs:string" minOccurs="0" />
+                <xs:element name="Param29" type="xs:string" minOccurs="0" />
+                <xs:element name="Param30" type="xs:string" minOccurs="0" />
+                <xs:element name="Param31" type="xs:string" minOccurs="0" />
+                <xs:element name="Param32" type="xs:string" minOccurs="0" />
+                <xs:element name="Param33" type="xs:string" minOccurs="0" />
+                <xs:element name="Param34" type="xs:string" minOccurs="0" />
+                <xs:element name="Param35" type="xs:string" minOccurs="0" />
+                <xs:element name="Param36" type="xs:string" minOccurs="0" />
+                <xs:element name="Param37" type="xs:string" minOccurs="0" />
+                <xs:element name="Param38" type="xs:string" minOccurs="0" />
+                <xs:element name="Param39" type="xs:string" minOccurs="0" />
+                <xs:element name="Param40" type="xs:string" minOccurs="0" />
+                <xs:element name="Param41" type="xs:string" minOccurs="0" />
+                <xs:element name="Param42" type="xs:string" minOccurs="0" />
+                <xs:element name="Param43" type="xs:string" minOccurs="0" />
+                <xs:element name="Param44" type="xs:string" minOccurs="0" />
+                <xs:element name="Param45" type="xs:string" minOccurs="0" />
+                <xs:element name="Param46" type="xs:string" minOccurs="0" />
+                <xs:element name="Param47" type="xs:string" minOccurs="0" />
+                <xs:element name="Param48" type="xs:string" minOccurs="0" />
+                <xs:element name="Param49" type="xs:string" minOccurs="0" />
+                <xs:element name="Param50" type="xs:string" minOccurs="0" />
+                <xs:element name="Param51" type="xs:string" minOccurs="0" />
+                <xs:element name="Param52" type="xs:string" minOccurs="0" />
+                <xs:element name="Param53" type="xs:string" minOccurs="0" />
+                <xs:element name="Param54" type="xs:string" minOccurs="0" />
+                <xs:element name="Param55" type="xs:string" minOccurs="0" />
+                <xs:element name="Param56" type="xs:string" minOccurs="0" />
+                <xs:element name="Param57" type="xs:string" minOccurs="0" />
+                <xs:element name="Param58" type="xs:string" minOccurs="0" />
+                <xs:element name="Param59" type="xs:string" minOccurs="0" />
+                <xs:element name="Param60" type="xs:string" minOccurs="0" />
+                <xs:element name="DBTemplate" type="xs:string" minOccurs="0" />
+                <xs:element name="DBTableName" type="xs:string" minOccurs="0" />
+                <xs:element name="DBColumnName" type="xs:string" minOccurs="0" />
+                <xs:element name="DBCondition" type="xs:string" minOccurs="0" />
+                <xs:element name="IntroTime" type="xs:string" minOccurs="0" />
+                <xs:element name="ExitTime" type="xs:string" minOccurs="0" />
+                <xs:element name="DurationBased" type="xs:string" minOccurs="0" />
+                <xs:element name="EndOffset" type="xs:string" minOccurs="0" />
+                <xs:element name="StartOffset" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ConfigData>
+    <SrNo>33656</SrNo>
+    <TemplateName>FILETICKER</TemplateName>
+    <LayerNo>3</LayerNo>
+    <ChannelName>BEIN</ChannelName>
+    <BugType>DBTICKER</BugType>
+    <KillwithPrimary>false</KillwithPrimary>
+    <ShowOnBreak>false</ShowOnBreak>
+    <BugStatus>false</BugStatus>
+    <Param1>Top BEIN news...&amp; and &gt; and &lt; and / are spec</Param1>
+    <DBTemplate>false</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>1</SrNo>
+    <TemplateName>NOW_TITLE</TemplateName>
+    <LayerNo>3</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>VIDEO</BugType>
+    <KillwithPrimary>false</KillwithPrimary>
+    <ShowOnBreak>false</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>~TEXT</Param1>
+    <Param2 />
+    <Param3 />
+    <Param4 />
+    <Param5 />
+    <Param6 />
+    <Param7 />
+    <Param8 />
+    <Param9 />
+    <Param10 />
+    <Param11 />
+    <Param12 />
+    <Param13 />
+    <Param14 />
+    <Param15 />
+    <Param16 />
+    <Param17 />
+    <Param18 />
+    <Param19 />
+    <Param20 />
+    <Param21 />
+    <Param22 />
+    <Param23 />
+    <Param24 />
+    <Param25 />
+    <Param26 />
+    <Param27 />
+    <Param28 />
+    <Param29 />
+    <Param30 />
+    <Param31 />
+    <Param32 />
+    <Param33 />
+    <Param34 />
+    <Param35 />
+    <Param36 />
+    <Param37 />
+    <Param38 />
+    <Param39 />
+    <Param40 />
+    <Param41 />
+    <Param42 />
+    <Param43 />
+    <Param44 />
+    <Param45 />
+    <Param46 />
+    <Param47 />
+    <Param48 />
+    <Param49 />
+    <Param50 />
+    <Param51 />
+    <Param52 />
+    <Param53 />
+    <Param54 />
+    <Param55 />
+    <Param56 />
+    <Param57 />
+    <Param58 />
+    <Param59 />
+    <Param60 />
+    <DBTemplate>false</DBTemplate>
+    <DBTableName />
+    <DBColumnName />
+    <DBCondition />
+    <IntroTime />
+    <ExitTime />
+    <DurationBased>false</DurationBased>
+    <EndOffset />
+    <StartOffset />
+  </ConfigData>
+</NewDataSet>

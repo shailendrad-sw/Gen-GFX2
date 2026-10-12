@@ -1,0 +1,12 @@
+[24-08-2026 16:05:24][00:00:00:00] -- [UpdateXMLComposition()], Error in updating (template= BUG, value= )errInfo- System.Xml.XmlException: '"' is an unexpected token. The expected token is ';'. Line 8, position 85.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.HandleEntityReference(Boolean isInAttributeValue, EntityExpandType expandType, Int32& charRefEndPos)
+   at System.Xml.XmlTextReaderImpl.ParseAttributeValueSlow(Int32 curPos, Char quoteChar, NodeData attr)
+   at System.Xml.XmlTextReaderImpl.ParseAttributes()
+   at System.Xml.XmlTextReaderImpl.ParseElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.Load(String filename)
+   at graphicserver.FrmMainServer.UpdateXMLComposition(String graphics, String _Id, String _Value, String _Type, String _BugType, Boolean IsAvailableOnNas, Boolean Islocalavailable) in D:\CurrentWorking\GFX2.X_Latest_20.25.5.32_BEIN_CODE -srilanka -DirectAsrun\graphicserver\FrmMainServer.cs:line 2922

@@ -1,0 +1,330 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ConfigData" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ConfigData">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="SrNo" type="xs:int" minOccurs="0" />
+                <xs:element name="TemplateName" type="xs:string" minOccurs="0" />
+                <xs:element name="LayerNo" type="xs:string" minOccurs="0" />
+                <xs:element name="FileExtension" type="xs:string" minOccurs="0" />
+                <xs:element name="ChannelName" type="xs:string" minOccurs="0" />
+                <xs:element name="BugType" type="xs:string" minOccurs="0" />
+                <xs:element name="KillwithPrimary" type="xs:string" minOccurs="0" />
+                <xs:element name="ShowOnBreak" type="xs:string" minOccurs="0" />
+                <xs:element name="BugStatus" type="xs:string" minOccurs="0" />
+                <xs:element name="Param1" type="xs:string" minOccurs="0" />
+                <xs:element name="Param2" type="xs:string" minOccurs="0" />
+                <xs:element name="Param3" type="xs:string" minOccurs="0" />
+                <xs:element name="Param4" type="xs:string" minOccurs="0" />
+                <xs:element name="Param5" type="xs:string" minOccurs="0" />
+                <xs:element name="Param6" type="xs:string" minOccurs="0" />
+                <xs:element name="Param7" type="xs:string" minOccurs="0" />
+                <xs:element name="Param8" type="xs:string" minOccurs="0" />
+                <xs:element name="Param9" type="xs:string" minOccurs="0" />
+                <xs:element name="Param10" type="xs:string" minOccurs="0" />
+                <xs:element name="DBTemplate" type="xs:string" minOccurs="0" />
+                <xs:element name="DBTableName" type="xs:string" minOccurs="0" />
+                <xs:element name="DBColumnName" type="xs:string" minOccurs="0" />
+                <xs:element name="DBCondition" type="xs:string" minOccurs="0" />
+                <xs:element name="IntroTime" type="xs:string" minOccurs="0" />
+                <xs:element name="ExitTime" type="xs:string" minOccurs="0" />
+                <xs:element name="DurationBased" type="xs:string" minOccurs="0" />
+                <xs:element name="EndOffset" type="xs:string" minOccurs="0" />
+                <xs:element name="StartOffset" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ConfigData>
+    <SrNo>653</SrNo>
+    <TemplateName>now</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TEXT</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>now_nowdata~TEXT</Param1>
+    <Param2 />
+    <Param3 />
+    <DBTemplate>false</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>654</SrNo>
+    <TemplateName>next</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TEXT</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>next_nextdata~TEXT</Param1>
+    <Param2 />
+    <Param3 />
+    <DBTemplate>false</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>656</SrNo>
+    <TemplateName>later</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TIMER</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>later_backindata~TIME</Param1>
+    <Param2 />
+    <Param3 />
+    <DBTemplate>false</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>658</SrNo>
+    <TemplateName>backin</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TIMER</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>backin_backindata~TIME</Param1>
+    <Param2 />
+    <Param3 />
+    <DBTemplate>false</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>704</SrNo>
+    <TemplateName>audioloss</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TEXT</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1 />
+    <Param2 />
+    <Param3 />
+    <DBTemplate>false</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128640</SrNo>
+    <TemplateName>cRAWLING</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TICKER-TEXT</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>ticker-000~TICKER-TEXT</Param1>
+    <Param2 />
+    <Param3 />
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128644</SrNo>
+    <TemplateName>VERTICKER</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TICKER-TEXT</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>ticker-000~TICKER-TEXT</Param1>
+    <Param2 />
+    <Param3 />
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128652</SrNo>
+    <TemplateName>videoanimation</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>VIDEO-SQZ</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>sqzvideoid~IMAGE</Param1>
+    <Param2>310,22,1918,913</Param2>
+    <Param3>500</Param3>
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128653</SrNo>
+    <TemplateName>nabtemplate</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>VIDEO-SQZ</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>sqzvideoid~IMAGE</Param1>
+    <Param2>310,0,1920,914</Param2>
+    <Param3>500</Param3>
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128654</SrNo>
+    <TemplateName>Pushupnab</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>VIDEO-SQZ</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>sqzvideoid~IMAGE</Param1>
+    <Param2>3,0,1917,856</Param2>
+    <Param3>500</Param3>
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128656</SrNo>
+    <TemplateName>tEXTNAB</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TEXT</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>text-000~TEXT</Param1>
+    <Param2 />
+    <Param3 />
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128670</SrNo>
+    <TemplateName>check</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>VIDEO-SQZ</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>sqzvideoid~IMAGE</Param1>
+    <Param2>407,0,1920,839</Param2>
+    <Param3>500</Param3>
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128673</SrNo>
+    <TemplateName>LOGO</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>VIDEO</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1 />
+    <Param2 />
+    <Param3 />
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128676</SrNo>
+    <TemplateName>demotickertest</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TEXT</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>ticker-000~TICKER-TEXT</Param1>
+    <Param2 />
+    <Param3 />
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128681</SrNo>
+    <TemplateName>lbandnew</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>VIDEO-SQZ</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>sqzvideoid~IMAGE</Param1>
+    <Param2>407,0,1920,839</Param2>
+    <Param3>500</Param3>
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128682</SrNo>
+    <TemplateName>CrawlingTicker</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TICKER-TEXT</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>ticker-000~TICKER-TEXT</Param1>
+    <Param2>ticker-001~TICKER-TEXT</Param2>
+    <Param3 />
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128689</SrNo>
+    <TemplateName>text</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TEXT</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1>text-000~TEXT</Param1>
+    <Param2 />
+    <Param3 />
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128691</SrNo>
+    <TemplateName>demo_temp</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>VIDEO-SQZ</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1 />
+    <Param2 />
+    <Param3 />
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+  <ConfigData>
+    <SrNo>111128692</SrNo>
+    <TemplateName>lbandid</TemplateName>
+    <LayerNo>5</LayerNo>
+    <FileExtension>.mov</FileExtension>
+    <ChannelName>NAB</ChannelName>
+    <BugType>TICKER-TEXT</BugType>
+    <KillwithPrimary>true</KillwithPrimary>
+    <ShowOnBreak>true</ShowOnBreak>
+    <BugStatus>true</BugStatus>
+    <Param1 />
+    <Param2 />
+    <Param3 />
+    <DBTemplate>true</DBTemplate>
+  </ConfigData>
+</NewDataSet>
