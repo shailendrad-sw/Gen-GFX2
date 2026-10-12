@@ -1,0 +1,148 @@
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\Debug\graphicserver.exe.config
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\Debug\graphicserver.exe
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\Debug\graphicserver.pdb
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\Debug\graphicserver.csprojResolveAssemblyReference.cache
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\Debug\graphicserver.FrmMainServer.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\Debug\graphicserver.mainform.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\Debug\graphicserver.Properties.Resources.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\Debug\graphicserver.csproj.GenerateResource.Cache
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\Debug\graphicserver.exe
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\Debug\graphicserver.pdb
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\Debug\Interop.MFORMATSLib.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\Debug\Interop.MLCHARGENLib.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\Debug\MySql.Data.dll
+D:\Projects\working\Samplegraphics\Uband included\graphicserver\bin\Debug\graphicserver.exe.config
+D:\Projects\working\Samplegraphics\Uband included\graphicserver\obj\Debug\graphicserver.exe
+D:\Projects\working\Samplegraphics\Uband included\graphicserver\obj\Debug\graphicserver.pdb
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Debug\graphicserver.exe.config
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Debug\graphicserver.exe
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Debug\graphicserver.pdb
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Debug\Interop.MFORMATSLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Debug\Interop.MLCHARGENLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Debug\MySql.Data.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\graphicserver.FrmMainServer.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\graphicserver.Graphicscontrol.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\graphicserver.mainform.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\graphicserver.Properties.Resources.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\graphicserver.csproj.GenerateResource.Cache
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\graphicserver.exe
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\graphicserver.pdb
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\graphicserver.csprojResolveAssemblyReference.cache
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Debug\Interop.MLPROXYLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\Interop.MFORMATSLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\Interop.MLCHARGENLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\Interop.MLPROXYLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\graphicserver.csproj.ResolveComReference.cache
+D:\Projects\Practice\graphicserver\graphicserver\bin\Debug\MBIV Graphic Server.exe.config
+D:\Projects\Practice\graphicserver\graphicserver\bin\Debug\MBIV Graphic Server.exe
+D:\Projects\Practice\graphicserver\graphicserver\bin\Debug\MBIV Graphic Server.pdb
+D:\Projects\Practice\graphicserver\graphicserver\bin\Debug\Interop.MCHROMAKEYLib.dll
+D:\Projects\Practice\graphicserver\graphicserver\bin\Debug\Interop.MFORMATSLib.dll
+D:\Projects\Practice\graphicserver\graphicserver\bin\Debug\Interop.MLCHARGENLib.dll
+D:\Projects\Practice\graphicserver\graphicserver\bin\Debug\Interop.MLPROXYLib.dll
+D:\Projects\Practice\graphicserver\graphicserver\bin\Debug\MySql.Data.dll
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\graphicserver.Aboutus.resources
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\graphicserver.FrmMainServer.resources
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\graphicserver.Graphicscontrol.resources
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\graphicserver.GridForm.resources
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\graphicserver.mainform.resources
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\graphicserver.manualgraphicsload.resources
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\graphicserver.Properties.Resources.resources
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\graphicserver.Render.resources
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\graphicserver.Renderout.resources
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\graphicserver.csproj.GenerateResource.Cache
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\MBIV Graphic Server.exe
+D:\Projects\Practice\graphicserver\graphicserver\obj\Debug\MBIV Graphic Server.pdb
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Debug\MBIV Graphic Server.exe.config
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\MBIV Graphic Server.exe
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Debug\MBIV Graphic Server.pdb
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\bin\Debug\MBIV Graphic Server.exe.config
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\MBIV Graphic Server.exe
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\MBIV Graphic Server.pdb
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.csprojResolveAssemblyReference.cache
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.Aboutus.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.ChannelConfig.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.CreateChannel.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.FrmMainServer.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.Graphicscontrol.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.GridForm.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.mainform.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.manualgraphicsload.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.MessageForm.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.Properties.Resources.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.Render.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.Renderout.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.ScteUserControl.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.SelectChannels.resources
+C:\Users\arzoo.sw\Desktop\SAURABH\CloudX Graphics Engine - 22.01.2020\graphicserver\obj\Debug\graphicserver.csproj.GenerateResource.Cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\Debug\GFX2.X.exe.config
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\Debug\Interop.MFORMATSLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\Debug\Interop.MLCHARGENLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\Debug\Interop.MLPROXYLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\Debug\graphicserver.csproj.ResolveComReference.cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\Debug\graphicserver.csprojResolveAssemblyReference.cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\Debug\WPF\SubtitleEdit.g.cs
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\Debug\GFX2.X_Content.g.cs
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\Debug\GFX2.X_MarkupCompile.cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\Debug\GFX2.X_MarkupCompile.lref
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\bin\Debug\GFX2.X.exe.config
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\bin\Debug\GFX2.X.exe
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\bin\Debug\GFX2.X.pdb
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\bin\Debug\MySql.Data.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\bin\Debug\Interop.MCCDisplayLib.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\bin\Debug\Interop.MCHROMAKEYLib.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\bin\Debug\Interop.MFORMATSLib.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\bin\Debug\Interop.MLCHARGENLib.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\bin\Debug\Interop.MLPROXYLib.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\Interop.MCCDisplayLib.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\Interop.MCHROMAKEYLib.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\Interop.MFORMATSLib.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\Interop.MLCHARGENLib.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\Interop.MLPROXYLib.dll
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.csproj.ResolveComReference.cache
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\WPF\SubtitleEdit.g.cs
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\GFX2.X_Content.g.cs
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\GFX2.X_MarkupCompile.cache
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\GFX2.X_MarkupCompile.lref
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\WPF\SubtitleEdit.baml
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\GFX2.X.g.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.Aboutus.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.ChannelConfig.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.ContentForm.ContentDbList.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.ContentForm.ContentDetail.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.ContentForm.FrmRefreshContent.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.CreateChannel.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.FrmContentList.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.FrmMainServer.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.FrmSubtitleSetting.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.FrmTemplate.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.frmTrigger.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.Graphicscontrol.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.GridForm.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.mainform.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.manualgraphicsload.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.MessageForm.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.Properties.Resources.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.Render.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.Renderout.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.ScteUserControl.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.SelectChannels.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.TempPreview.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.UCSubtitle.resources
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\graphicserver.csproj.GenerateResource.Cache
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\GFX2.X.exe
+F:\Working_6-12-2023\GFX2.X with DLLs_2.8_compile\graphicserver\obj\Debug\GFX2.X.pdb
+D:\working\GFX2.X with DLLs_2.9.1_WithMYSQL8_final\graphicserver\bin\Debug\GFX2.X.exe.config
+D:\working\GFX2.X with DLLs_2.9.1_WithMYSQL8_final\graphicserver\obj\Debug\Interop.AJASettingLibLib.dll
+D:\working\GFX2.X with DLLs_2.9.1_WithMYSQL8_final\graphicserver\obj\Debug\Interop.MCCDisplayLib.dll
+D:\working\GFX2.X with DLLs_2.9.1_WithMYSQL8_final\graphicserver\obj\Debug\Interop.MCHROMAKEYLib.dll
+D:\working\GFX2.X with DLLs_2.9.1_WithMYSQL8_final\graphicserver\obj\Debug\Interop.MFORMATSLib.dll
+D:\working\GFX2.X with DLLs_2.9.1_WithMYSQL8_final\graphicserver\obj\Debug\Interop.MLCHARGENLib.dll
+D:\working\GFX2.X with DLLs_2.9.1_WithMYSQL8_final\graphicserver\obj\Debug\Interop.MLPROXYLib.dll
+D:\working\GFX2.X with DLLs_2.9.1_WithMYSQL8_final\graphicserver\obj\Debug\Interop.MultiAppPmslDLibLib.dll
+D:\working\GFX2.X with DLLs_2.9.1_WithMYSQL8_final\graphicserver\obj\Debug\graphicserver.csproj.ResolveComReference.cache
+D:\working\GFX2.X with DLLs_2.9.1_WithMYSQL8_final\graphicserver\obj\Debug\GFX2.X.exe
+D:\working\GFX2.X with DLLs_2.9.1_WithMYSQL8_final\graphicserver\obj\Debug\GFX2.X.pdb

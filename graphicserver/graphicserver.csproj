@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3838EF9E-AF88-4718-AC92-20187722563F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>graphicserver</RootNamespace>
+    <AssemblyName>GFX2.X</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>Mainlogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v22.2.Core, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Dashboard.v22.2.Core, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Dashboard.v22.2.Win, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v22.2.UI, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Drawing.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Map.v22.2.Core, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v22.2.Core, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v22.2.Core, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v22.2.Drawing, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v22.2.Core, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v22.2.Core, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v22.2.Core, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v22.2.Core, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.TreeMap.v22.2.Core, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v22.2.UI, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v22.2.UI, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v22.2.Wizard, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v22.2.Core, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v22.2.Presets, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v22.2.Win, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraMap.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPdfViewer.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeMap.v22.2, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeMap.v22.2.UI, Version=22.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=7.0.0.1, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.7.0.1\lib\net462\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data">
+      <HintPath>bin\x64\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlConnector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlConnector.2.3.7\lib\net48\MySqlConnector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.7.0.2\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aboutus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aboutus.Designer.cs">
+      <DependentUpon>Aboutus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bkupoption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bkupoption.Designer.cs">
+      <DependentUpon>Bkupoption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChannelConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChannelConfig.designer.cs">
+      <DependentUpon>ChannelConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\AgentMode.cs" />
+    <Compile Include="Classes\CgXmlLayoutHelper.cs" />
+    <Compile Include="Classes\CustomTrigger.cs" />
+    <Compile Include="Classes\ManualAsRun.cs" />
+    <Compile Include="Classes\PMSLReader.cs" />
+    <Compile Include="Classes\PMSLWriter.cs" />
+    <Compile Include="Classes\SystemKeyGenerator.cs" />
+    <Compile Include="Classes\UtilityCls.cs" />
+    <Compile Include="ContentForm\ChannelBug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForm\ChannelBug.designer.cs">
+      <DependentUpon>ChannelBug.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForm\ClsBackGround.cs" />
+    <Compile Include="ContentForm\clsGlobalColor.cs" />
+    <Compile Include="ContentForm\ContentDbList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForm\ContentDbList.Designer.cs">
+      <DependentUpon>ContentDbList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForm\ContentDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForm\ContentDetail.Designer.cs">
+      <DependentUpon>ContentDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForm\FrmRefreshContent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForm\FrmRefreshContent.Designer.cs">
+      <DependentUpon>FrmRefreshContent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateChannel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateChannel.Designer.cs">
+      <DependentUpon>CreateChannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\DbLayer.cs" />
+    <Compile Include="ContentForm\FrmContentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForm\FrmContentList.Designer.cs">
+      <DependentUpon>FrmContentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMainServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMainServer.Designer.cs">
+      <DependentUpon>FrmMainServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSubtitleSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSubtitleSetting.Designer.cs">
+      <DependentUpon>FrmSubtitleSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTemplate.designer.cs">
+      <DependentUpon>FrmTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrigger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrigger.Designer.cs">
+      <DependentUpon>frmTrigger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graphicscontrol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Graphicscontrol.Designer.cs">
+      <DependentUpon>Graphicscontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Loging.cs" />
+    <Compile Include="GridForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GridForm.Designer.cs">
+      <DependentUpon>GridForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="License\MLProtect_Character Generator.cs" />
+    <Compile Include="License\MLProtect_Closed Captions lib.cs" />
+    <Compile Include="License\MLProtect_MFormats SDK.cs" />
+    <Compile Include="License\MLProtect_ST2110 Compatibility Pack.cs" />
+    <Compile Include="License\MLProtect_Streaming Pack.cs" />
+    <Compile Include="mainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainform.Designer.cs">
+      <DependentUpon>mainform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manualgraphicsload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manualgraphicsload.Designer.cs">
+      <DependentUpon>manualgraphicsload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\PacketData.cs" />
+    <Compile Include="Classes\Program.cs" />
+    <Compile Include="MessageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageForm.Designer.cs">
+      <DependentUpon>MessageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Render.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Render.Designer.cs">
+      <DependentUpon>Render.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Renderout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Renderout.Designer.cs">
+      <DependentUpon>Renderout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Settings.cs" />
+    <Compile Include="Classes\StaticGlobal.cs" />
+    <Compile Include="RestoreOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RestoreOption.designer.cs">
+      <DependentUpon>RestoreOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScteUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScteUserControl.Designer.cs">
+      <DependentUpon>ScteUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectChannels.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectChannels.Designer.cs">
+      <DependentUpon>SelectChannels.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TempPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TempPreview.Designer.cs">
+      <DependentUpon>TempPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCSubtitle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCSubtitle.Designer.cs">
+      <DependentUpon>UCSubtitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserManual.Designer.cs">
+      <DependentUpon>UserManual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usrcntrlparam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usrcntrlparam.Designer.cs" />
+    <Compile Include="Usrcntrlparam1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Usrcntrlparam.resx</DependentUpon>
+    </Compile>
+    <Compile Include="WPF\SubtitleEdit.xaml.cs">
+      <DependentUpon>SubtitleEdit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WPF\ValidationRuleForSubtitleSetting.cs" />
+    <EmbeddedResource Include="Aboutus.resx">
+      <DependentUpon>Aboutus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bkupoption.resx" />
+    <EmbeddedResource Include="ChannelConfig.resx">
+      <DependentUpon>ChannelConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForm\ChannelBug.resx">
+      <DependentUpon>ChannelBug.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForm\ContentDbList.resx">
+      <DependentUpon>ContentDbList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForm\ContentDetail.resx">
+      <DependentUpon>ContentDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForm\FrmRefreshContent.resx">
+      <DependentUpon>FrmRefreshContent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateChannel.resx">
+      <DependentUpon>CreateChannel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForm\FrmContentList.resx">
+      <DependentUpon>FrmContentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMainServer.resx">
+      <DependentUpon>FrmMainServer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSubtitleSetting.resx">
+      <DependentUpon>FrmSubtitleSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTemplate.resx">
+      <DependentUpon>FrmTemplate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrigger.resx">
+      <DependentUpon>frmTrigger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graphicscontrol.resx">
+      <DependentUpon>Graphicscontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GridForm.resx">
+      <DependentUpon>GridForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainform.resx">
+      <DependentUpon>mainform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manualgraphicsload.resx">
+      <DependentUpon>manualgraphicsload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageForm.resx">
+      <DependentUpon>MessageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Render.resx">
+      <DependentUpon>Render.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Renderout.resx">
+      <DependentUpon>Renderout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestoreOption.resx">
+      <DependentUpon>RestoreOption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScteUserControl.resx">
+      <DependentUpon>ScteUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectChannels.resx">
+      <DependentUpon>SelectChannels.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TempPreview.resx">
+      <DependentUpon>TempPreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCSubtitle.resx">
+      <DependentUpon>UCSubtitle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserManual.resx">
+      <DependentUpon>UserManual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usrcntrlparam.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Usrcntrlparam1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\x64\Debug\images\manualplay\playman.png" />
+    <None Include="bin\x64\Debug\images\manualplay\close.png" />
+    <None Include="bin\x64\Debug\images\manualplay\hide.png" />
+    <None Include="bin\x64\Debug\images\manualplay\show.png" />
+    <None Include="bin\x64\Debug\images\New folder\in.png" />
+    <None Include="bin\x64\Debug\images\New folder\out.png" />
+    <None Include="bin\x64\Debug\images\New folder\manualload.png" />
+    <None Include="bin\x64\Debug\images\manualplay\eye-2387853_1920.png" />
+    <None Include="bin\x64\Debug\images\New folder\visibility.png" />
+    <None Include="bin\x64\Debug\images\New folder\KillWaiting.png" />
+    <None Include="bin\x64\Debug\images\smallicons\file.png" />
+    <None Include="bin\x64\Debug\images\smallicons\close.png" />
+    <None Include="bin\x64\Debug\images\SubMenuIcons\refresh.png" />
+    <None Include="bin\x64\Debug\images\SubMenuIcons\in.png" />
+    <None Include="bin\x64\Debug\images\SubMenuIcons\out.png" />
+    <None Include="bin\x64\Debug\images\SubMenuIcons\manualload.png" />
+    <None Include="bin\x64\Debug\images\SubMenuIcons\hide.png" />
+    <None Include="bin\x64\Debug\images\SubMenuIcons\about.png" />
+    <None Include="bin\x64\Debug\images\MenuIcons\view.png" />
+    <None Include="bin\x64\Debug\images\MenuIcons\about.png" />
+    <None Include="bin\x64\Debug\images\MenuIcons\settings.png" />
+    <None Include="bin\x64\Debug\images\MenuIcons\file.png" />
+    <None Include="bin\x64\Debug\images\ManualGraphicsPlay\playman.png" />
+    <None Include="bin\x64\Debug\images\ManualGraphicsPlay\close.png" />
+    <None Include="bin\x64\Debug\images\ManualGraphicsPlay\hide.png" />
+    <None Include="bin\x64\Debug\images\ManualGraphicsPlay\show.png" />
+    <None Include="bin\x64\Debug\images\SubMenuIcons\visibility.png" />
+    <None Include="bin\x64\Debug\images\SubMenuIcons\KillWaiting.png" />
+    <None Include="bin\x64\Debug\images\SubMenuIcons\close.png" />
+    <None Include="bin\x64\Debug\images\MenuIcons\channelsettings1.png" />
+    <None Include="bin\x64\Debug\images\MenuIcons\channelsettings.png" />
+    <None Include="bin\x64\Debug\Planetcast_Logo.png" />
+    <None Include="bin\x64\Debug\images\SubMenuIcons\LOGGMEICON.png" />
+    <Content Include="image\about.png" />
+    <Content Include="image\about`.png" />
+    <Content Include="image\channelsettings.png" />
+    <Content Include="image\channelsettings`.png" />
+    <Content Include="image\file.png" />
+    <Content Include="image\file`.png" />
+    <Content Include="image\settings.png" />
+    <Content Include="image\settings`.png" />
+    <Content Include="image\view.png" />
+    <Content Include="image\view`.png" />
+    <Content Include="Mainlogo.ico" />
+    <None Include="bin\x64\Debug\images\New folder\tools.png" />
+    <None Include="bin\x64\Debug\images\New folder\about.png" />
+    <None Include="bin\x64\Debug\images\New folder\close.png" />
+    <None Include="bin\x64\Debug\images\New folder\refresh.png" />
+    <None Include="bin\x64\Debug\images\Tools.png" />
+    <None Include="bin\x64\Debug\images\file.png" />
+    <None Include="bin\x64\Debug\images\show&amp;hide.png" />
+    <None Include="bin\x64\Debug\images\exit.png" />
+    <None Include="bin\x64\Debug\images\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="WPF\SubtitleEdit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="DongleProtectionLib">
+      <Guid>{DB58EB1A-D9B6-4C8C-A801-A344DD3CE1BC}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MFORMATSLib">
+      <Guid>{927771C8-EA18-45C7-B8C1-5B2CC1B531DE}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MFOverlayHTMLLib">
+      <Guid>{D28CDABC-6A70-489E-960A-9DA0E814C3D9}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MLCHARGENLib">
+      <Guid>{A792045E-B55C-473B-8C61-861E93A1D370}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MLPROXYLib">
+      <Guid>{E028E984-C4EE-417D-A800-5C36ADD24058}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MultiAppPmslDLibLib">
+      <Guid>{F314B13F-1978-441A-A15A-782C66816C19}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

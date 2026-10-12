@@ -1,0 +1,16 @@
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Release\graphicserver.pdb
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Release\MySql.Data.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\graphicserver.csprojResolveAssemblyReference.cache
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\graphicserver.FrmMainServer.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\graphicserver.Graphicscontrol.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\graphicserver.mainform.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\graphicserver.Properties.Resources.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\graphicserver.csproj.GenerateResource.Cache
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\graphicserver.pdb
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Release\graphicserver.exe.config
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\Release\graphicserver.exe
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\graphicserver.exe
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\Interop.MFORMATSLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\Interop.MLCHARGENLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\Interop.MLPROXYLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\Release\graphicserver.csproj.ResolveComReference.cache

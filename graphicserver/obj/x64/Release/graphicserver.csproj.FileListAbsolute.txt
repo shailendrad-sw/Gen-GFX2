@@ -1,0 +1,571 @@
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\x64\Release\graphicserver.exe.config
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\x64\Release\graphicserver.exe
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\x64\Release\graphicserver.pdb
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\bin\x64\Release\MySql.Data.dll
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\x64\Release\graphicserver.exe
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\x64\Release\graphicserver.pdb
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\x64\Release\graphicserver.Render.resources
+D:\Projects\working\Samplegraphics\graphicserver\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x64\Release\MBIV Graphic Server.exe.config
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x64\Release\MBIV Graphic Server.exe
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x64\Release\MBIV Graphic Server.pdb
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x64\Release\MySql.Data.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.Render.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\MBIV Graphic Server.exe
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x64\Release\MBIV Graphic Server.pdb
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\bin\x64\Release\MBIV Graphic Server.exe.config
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\MBIV Graphic Server.exe
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\MBIV Graphic Server.pdb
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\bin\x64\Release\MBIV Graphic Server.exe
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\bin\x64\Release\MBIV Graphic Server.pdb
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Render.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+E:\MBIVGFX\nov\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\bin\x64\Release\MBIV Graphic Server.exe.config
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\MBIV Graphic Server.exe
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\MBIV Graphic Server.pdb
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Render.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Render.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\bin\x64\Release\CloudX Graphic Server.exe.config
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\bin\x64\Release\CloudX Graphic Server.exe
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\bin\x64\Release\CloudX Graphic Server.pdb
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\CloudX Graphic Server.exe
+D:\Project\Working\VCPLUS\Cloud X Graphics\CloudX Graphics Engine\graphicserver\obj\x64\Release\CloudX Graphic Server.pdb
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\bin\x64\Release\CloudX Graphic Server.exe.config
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\CloudX Graphic Server.exe
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\CloudX Graphic Server.pdb
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\bin\x64\Release\CloudX Graphic Server.exe
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\bin\x64\Release\CloudX Graphic Server.pdb
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.Render.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.7\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\bin\x64\Release\CloudX Graphic Server.exe.config
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\CloudX Graphic Server.exe
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\CloudX Graphic Server.pdb
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\bin\x64\Release\CloudX Graphic Server.exe
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\bin\x64\Release\CloudX Graphic Server.pdb
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.Render.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+F:\CLOUDX GRAPHICS\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+E:\MBIVGFX\2020\CloudX Graphics Engine 20.20.8\graphicserver\bin\x64\Release\CloudX Graphic Server.exe.config
+E:\MBIVGFX\2020\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\CloudX Graphic Server.exe
+E:\MBIVGFX\2020\CloudX Graphics Engine 20.20.8\graphicserver\obj\x64\Release\CloudX Graphic Server.pdb
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\CloudX Graphics Engine\graphicserver\bin\x64\Release\CloudX Graphic Server.exe.config
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\CloudX Graphics Engine\graphicserver\obj\x64\Release\Interop.MCHROMAKEYLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\CloudX Graphics Engine\graphicserver\obj\x64\Release\Interop.MFORMATSLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\CloudX Graphics Engine\graphicserver\obj\x64\Release\Interop.MLCHARGENLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\CloudX Graphics Engine\graphicserver\obj\x64\Release\Interop.MLPROXYLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\CloudX Graphics Engine\graphicserver\obj\x64\Release\graphicserver.csproj.ResolveComReference.cache
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\CloudX Graphics Engine\graphicserver\obj\x64\Release\CloudX Graphic Server.exe
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\CloudX Graphics Engine\graphicserver\obj\x64\Release\CloudX Graphic Server.pdb
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\bin\x64\Release\GFX2.X.exe.config
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\Interop.MCHROMAKEYLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\Interop.MFORMATSLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\Interop.MLCHARGENLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\Interop.MLPROXYLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.csproj.ResolveComReference.cache
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.Render.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\bin\x64\Release\GFX2.X.exe.config
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\Interop.MCHROMAKEYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\Interop.MFORMATSLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\Interop.MLCHARGENLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\Interop.MLPROXYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.csproj.ResolveComReference.cache
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.Render.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\bin\x64\Release\GFX2.X.exe
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\bin\x64\Release\GFX2.X.pdb
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\GFX2.X.exe
+E:\MBIVGFX\2020\GFX2.X 20.20.8.2\graphicserver\obj\x64\Release\GFX2.X.pdb
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\bin\x64\Release\GFX2.X.exe.config
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\Interop.MCHROMAKEYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\Interop.MFORMATSLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\Interop.MLCHARGENLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\Interop.MLPROXYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.csproj.ResolveComReference.cache
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\GFX2.X.exe
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\GFX2.X.pdb
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\bin\x64\Release\GFX2.X.exe
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\bin\x64\Release\GFX2.X.pdb
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.Render.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.9.2\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\GFX2.X.exe
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\GFX2.X.pdb
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\bin\x64\Release\GFX2.X.exe
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\bin\x64\Release\GFX2.X.pdb
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\bin\x64\Release\GFX2.X.exe.config
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\Interop.MCHROMAKEYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\Interop.MFORMATSLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\Interop.MLCHARGENLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\Interop.MLPROXYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.csproj.ResolveComReference.cache
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\GFX2.X.exe
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\GFX2.X.pdb
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\bin\x64\Release\GFX2.X.exe
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\bin\x64\Release\GFX2.X.pdb
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.Render.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+E:\MBIVGFX\2020\GFX2.X 20.20.10.1\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\bin\x64\Release\GFX2.X.exe.config
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\Interop.MCHROMAKEYLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\Interop.MFORMATSLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\Interop.MLCHARGENLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\Interop.MLPROXYLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.csproj.ResolveComReference.cache
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\GFX2.X.exe
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\GFX2.X.pdb
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\bin\x64\Release\GFX2.X.exe
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\bin\x64\Release\GFX2.X.pdb
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.Render.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X 20.20.10.1_keyerwithlband\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.UCSubtitle.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDbList.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDetail.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.ContentForm.FrmRefreshContent.resources
+D:\Project\Working\VCPLUS\CLOUDX GRAPHICS SERVER 2.0\GFX2.X\graphicserver\obj\x64\Release\graphicserver.FrmContentList.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\bin\x64\Release\GFX2.X.exe.config
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\bin\x64\Release\GFX2.X.exe
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\bin\x64\Release\GFX2.X.pdb
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\bin\x64\Release\Interop.MCHROMAKEYLib.dll
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\Interop.MCHROMAKEYLib.dll
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\Interop.MFORMATSLib.dll
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\Interop.MLCHARGENLib.dll
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\Interop.MLPROXYLib.dll
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.csproj.ResolveComReference.cache
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\WPF\SubtitleEdit.g.cs
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\GFX2.X_Content.g.cs
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\GFX2.X_MarkupCompile.cache
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\GFX2.X_MarkupCompile.lref
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\WPF\SubtitleEdit.baml
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\GFX2.X.g.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDbList.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDetail.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.ContentForm.FrmRefreshContent.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.FrmContentList.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.FrmSubtitleSetting.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.Render.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.UCSubtitle.resources
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\GFX2.X.exe
+E:\GFX2.X Code With 2.5 Dll\GFX2.X Code 20.21.8.1\GFX2.X - AsRun Time LTC and Subtitle\graphicserver\obj\x64\Release\GFX2.X.pdb
+E:\Applications\GFX\DDK Hydrabad\graphicserver\bin\x64\Release\GFX2.X.exe.config
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\Interop.MFORMATSLib.dll
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\Interop.MLCHARGENLib.dll
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\Interop.MLPROXYLib.dll
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.csproj.ResolveComReference.cache
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\GFX2.X.exe
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\GFX2.X.pdb
+E:\Applications\GFX\DDK Hydrabad\graphicserver\bin\x64\Release\GFX2.X.exe
+E:\Applications\GFX\DDK Hydrabad\graphicserver\bin\x64\Release\GFX2.X.pdb
+E:\Applications\GFX\DDK Hydrabad\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Applications\GFX\DDK Hydrabad\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+E:\Applications\GFX\DDK Hydrabad\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+E:\Applications\GFX\DDK Hydrabad\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\WPF\SubtitleEdit.g.cs
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\GFX2.X_Content.g.cs
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\GFX2.X_MarkupCompile.cache
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\GFX2.X_MarkupCompile.lref
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\WPF\SubtitleEdit.baml
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\GFX2.X.g.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDbList.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDetail.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.ContentForm.FrmRefreshContent.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.FrmContentList.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.FrmSubtitleSetting.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.Render.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.TempPreview.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.UCSubtitle.resources
+E:\Applications\GFX\DDK Hydrabad\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\Interop.MFORMATSLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\Interop.MLCHARGENLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\Interop.MLPROXYLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.csproj.ResolveComReference.cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\WPF\SubtitleEdit.g.cs
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\GFX2.X_Content.g.cs
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\GFX2.X_MarkupCompile.cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\GFX2.X_MarkupCompile.lref
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\bin\x64\Release\GFX2.X.exe.config
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\bin\x64\Release\GFX2.X.exe
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\bin\x64\Release\GFX2.X.pdb
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\WPF\SubtitleEdit.baml
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\GFX2.X.g.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDbList.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDetail.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.ContentForm.FrmRefreshContent.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.FrmContentList.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.FrmSubtitleSetting.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.Render.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.TempPreview.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.UCSubtitle.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\GFX2.X.exe
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hydrabad With New License\graphicserver\obj\x64\Release\GFX2.X.pdb
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\GFX2.X.exe.config
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\Interop.MFORMATSLib.dll
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\Interop.MLCHARGENLib.dll
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\Interop.MLPROXYLib.dll
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.csproj.ResolveComReference.cache
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X.exe
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X.pdb
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\GFX2.X.exe
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\GFX2.X.pdb
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\WPF\SubtitleEdit.g.cs
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X_Content.g.cs
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X_MarkupCompile.cache
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X_MarkupCompile.lref
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\WPF\SubtitleEdit.baml
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X.g.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDbList.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDetail.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.ContentForm.FrmRefreshContent.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.FrmContentList.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.FrmSubtitleSetting.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.Render.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.TempPreview.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.UCSubtitle.resources
+E:\Applications\GFX\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\GFX2.X.exe.config
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\Interop.MFORMATSLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\Interop.MLCHARGENLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\Interop.MLPROXYLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.csproj.ResolveComReference.cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X.exe
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X.pdb
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\GFX2.X.exe
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\GFX2.X.pdb
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\Interop.MFORMATSLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\Interop.MLCHARGENLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\bin\x64\Release\Interop.MLPROXYLib.dll
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.csprojResolveAssemblyReference.cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\WPF\SubtitleEdit.g.cs
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X_Content.g.cs
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X_MarkupCompile.cache
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X_MarkupCompile.lref
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\WPF\SubtitleEdit.baml
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\GFX2.X.g.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.Aboutus.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.ChannelConfig.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDbList.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.ContentForm.ContentDetail.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.ContentForm.FrmRefreshContent.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.CreateChannel.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.FrmContentList.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.FrmMainServer.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.FrmSubtitleSetting.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.FrmTemplate.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.frmTrigger.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.Graphicscontrol.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.GridForm.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.mainform.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.manualgraphicsload.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.MessageForm.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.Properties.Resources.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.Render.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.Renderout.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.ScteUserControl.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.SelectChannels.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.TempPreview.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.UCSubtitle.resources
+E:\GFX2.X work\shailendraGFX2.X Backup for star\DDK Hyderabad with DLLs_2.7.1\graphicserver\obj\x64\Release\graphicserver.csproj.GenerateResource.Cache

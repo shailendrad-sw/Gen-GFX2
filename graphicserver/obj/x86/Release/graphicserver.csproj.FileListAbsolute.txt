@@ -1,0 +1,17 @@
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\bin\x86\Release\MBIV Graphic Server.exe.config
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.csprojResolveAssemblyReference.cache
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.Aboutus.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.ChannelConfig.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.CreateChannel.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.FrmMainServer.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.Graphicscontrol.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.GridForm.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.mainform.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.manualgraphicsload.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.MessageForm.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.Properties.Resources.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.Render.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.Renderout.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.ScteUserControl.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.SelectChannels.resources
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Release\graphicserver.csproj.GenerateResource.Cache

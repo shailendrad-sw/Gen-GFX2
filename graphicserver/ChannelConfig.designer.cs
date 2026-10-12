@@ -1,0 +1,2603 @@
+﻿namespace graphicserver
+{
+    partial class ChannelConfig
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ChannelConfig));
+            this.ChannelNamelbl = new System.Windows.Forms.Label();
+            this.ChannelTypelbl = new System.Windows.Forms.Label();
+            this.DbTypelbl = new System.Windows.Forms.Label();
+            this.DbIPAddresslbl = new System.Windows.Forms.Label();
+            this.DbPortlbl = new System.Windows.Forms.Label();
+            this.DbUsernamelbl = new System.Windows.Forms.Label();
+            this.DbPasswordlbl = new System.Windows.Forms.Label();
+            this.DbNamelbl = new System.Windows.Forms.Label();
+            this.ReceivingPortlbl = new System.Windows.Forms.Label();
+            this.LTCPortlbl = new System.Windows.Forms.Label();
+            this.ReconcileKeyChecklbl = new System.Windows.Forms.Label();
+            this.OverlappingChecklbl = new System.Windows.Forms.Label();
+            this.SubtitleChecklbl = new System.Windows.Forms.Label();
+            this.PMSPacketOnlbl = new System.Windows.Forms.Label();
+            this.CueOffSetlbl = new System.Windows.Forms.Label();
+            this.PromoPrefixlbl = new System.Windows.Forms.Label();
+            this.ProgramPrefixlbl = new System.Windows.Forms.Label();
+            this.CommercialPrefixlbl = new System.Windows.Forms.Label();
+            this.TemplatePathlbl = new System.Windows.Forms.Label();
+            this.ContentPathlbl = new System.Windows.Forms.Label();
+            this.SubtitlePathlbl = new System.Windows.Forms.Label();
+            this.ChannelnameValuelbl = new System.Windows.Forms.Label();
+            this.sdradiobutton = new System.Windows.Forms.RadioButton();
+            this.hdradiobutton = new System.Windows.Forms.RadioButton();
+            this.dbnamevaluetxtbox = new System.Windows.Forms.TextBox();
+            this.dbipadvaluetxtbox = new System.Windows.Forms.TextBox();
+            this.dbuservaluetxtbox = new System.Windows.Forms.TextBox();
+            this.dbpassvaluetxtbox = new System.Windows.Forms.TextBox();
+            this.dbportvaluetxtbox = new System.Windows.Forms.TextBox();
+            this.templatepathvaluetxtbox = new System.Windows.Forms.TextBox();
+            this.subtitlepathvaluetxtbox = new System.Windows.Forms.TextBox();
+            this.contentpathvaluetxtbox = new System.Windows.Forms.TextBox();
+            this.reconcilekeyvaluecmbbox = new System.Windows.Forms.ComboBox();
+            this.overlappingvaluecmbbox = new System.Windows.Forms.ComboBox();
+            this.pmspacketvaluecmbbox = new System.Windows.Forms.ComboBox();
+            this.subtitlevaluecmbbox = new System.Windows.Forms.ComboBox();
+            this.recportvaluetxtbox = new System.Windows.Forms.TextBox();
+            this.ltcportvaluetxtbox = new System.Windows.Forms.TextBox();
+            this.CueOffSettxtbox = new System.Windows.Forms.TextBox();
+            this.commprevaluetxtbox = new System.Windows.Forms.TextBox();
+            this.progprevaluetxtbox = new System.Windows.Forms.TextBox();
+            this.promoprevaluetxtbox = new System.Windows.Forms.TextBox();
+            this.Savebutton = new System.Windows.Forms.Button();
+            this.BTN_TEMPPATH_BROWSE = new System.Windows.Forms.Button();
+            this.BTN_SUBPATH_BROWSE = new System.Windows.Forms.Button();
+            this.BTN_CONTENTPATH_BROWSE = new System.Windows.Forms.Button();
+            this.ndioutputnamelbl = new System.Windows.Forms.Label();
+            this.ndioutputnametxtbox = new System.Windows.Forms.TextBox();
+            this.autoupdatetemplatechkbox = new System.Windows.Forms.CheckBox();
+            this.templaterefreshinterval_LBL = new System.Windows.Forms.Label();
+            this.templaterefreshintervaltxtbox = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.lblenabledb = new System.Windows.Forms.Label();
+            this.lblagentmode = new System.Windows.Forms.Label();
+            this.cmbagentmode = new System.Windows.Forms.ComboBox();
+            this.cmbpreviewwindow = new System.Windows.Forms.ComboBox();
+            this.lblpreviewwindow = new System.Windows.Forms.Label();
+            this.lblkeyingmode = new System.Windows.Forms.Label();
+            this.cmbkeyingmode = new System.Windows.Forms.ComboBox();
+            this.lblkeyerport = new System.Windows.Forms.Label();
+            this.txtkeyerport = new System.Windows.Forms.TextBox();
+            this.cmbscteenable = new System.Windows.Forms.ComboBox();
+            this.lblscteenable = new System.Windows.Forms.Label();
+            this.txtsctetemplatename = new System.Windows.Forms.TextBox();
+            this.lblsctetemplatename = new System.Windows.Forms.Label();
+            this.lblscteip = new System.Windows.Forms.Label();
+            this.txtscteip = new System.Windows.Forms.TextBox();
+            this.txtscteport = new System.Windows.Forms.TextBox();
+            this.lblscteport = new System.Windows.Forms.Label();
+            this.txtsctepreroll = new System.Windows.Forms.TextBox();
+            this.lblsctepreroll = new System.Windows.Forms.Label();
+            this.cmbenabledb = new System.Windows.Forms.ComboBox();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tp_channelsetting = new System.Windows.Forms.TabPage();
+            this.BrowseCnfFilePathBtn = new System.Windows.Forms.Button();
+            this.CnfFilePathTxt = new System.Windows.Forms.TextBox();
+            this.label36 = new System.Windows.Forms.Label();
+            this.MulticastIpTxt = new System.Windows.Forms.TextBox();
+            this.label35 = new System.Windows.Forms.Label();
+            this.onlyForMulticastChbx = new System.Windows.Forms.CheckBox();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.ntscrad = new System.Windows.Forms.RadioButton();
+            this.palrad = new System.Windows.Forms.RadioButton();
+            this.label33 = new System.Windows.Forms.Label();
+            this.DelayIncommand = new System.Windows.Forms.CheckBox();
+            this.lbladddelaycheck = new System.Windows.Forms.Label();
+            this.cmb_keyerheartbeat = new System.Windows.Forms.ComboBox();
+            this.label20 = new System.Windows.Forms.Label();
+            this.cb_keyerType = new System.Windows.Forms.ComboBox();
+            this.label17 = new System.Windows.Forms.Label();
+            this.btnBrowseSeconPath = new System.Windows.Forms.Button();
+            this.txtSecondaryPath = new System.Windows.Forms.TextBox();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.tp_genralsetting = new System.Windows.Forms.TabPage();
+            this.label34 = new System.Windows.Forms.Label();
+            this.onlyForAsrunChbx = new System.Windows.Forms.CheckBox();
+            this.dbTypeValueCmBx = new System.Windows.Forms.ComboBox();
+            this.CmbGfxSqueez = new System.Windows.Forms.ComboBox();
+            this.label29 = new System.Windows.Forms.Label();
+            this.GFXClientEnable = new System.Windows.Forms.TextBox();
+            this.label30 = new System.Windows.Forms.Label();
+            this.Ipgfxclient = new System.Windows.Forms.TextBox();
+            this.Portgfxclient = new System.Windows.Forms.TextBox();
+            this.ClientIP = new System.Windows.Forms.Label();
+            this.GfxClientPort = new System.Windows.Forms.Label();
+            this.txtEventCheckingTime = new System.Windows.Forms.TextBox();
+            this.label15 = new System.Windows.Forms.Label();
+            this.tp_AsRun = new System.Windows.Forms.TabPage();
+            this.CB_TimeMod = new System.Windows.Forms.ComboBox();
+            this.label22 = new System.Windows.Forms.Label();
+            this.cb_ManualAsRunEnable = new System.Windows.Forms.ComboBox();
+            this.label21 = new System.Windows.Forms.Label();
+            this.txtchannelnameMam = new System.Windows.Forms.TextBox();
+            this.label18 = new System.Windows.Forms.Label();
+            this.btnBrowsFolder = new System.Windows.Forms.Button();
+            this.txtfilename = new System.Windows.Forms.TextBox();
+            this.label13 = new System.Windows.Forms.Label();
+            this.cbType = new System.Windows.Forms.ComboBox();
+            this.txtreconkey = new System.Windows.Forms.TextBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.txtduration = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.txtstatus = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.txttemplatefilename = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.txttemplatename = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.txtdatetimecolumn = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.txttablename = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.txtfolderpath = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.cbEnableasrun = new System.Windows.Forms.ComboBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.tp_subtitle = new System.Windows.Forms.TabPage();
+            this.EncodingCombo = new System.Windows.Forms.ComboBox();
+            this.label32 = new System.Windows.Forms.Label();
+            this.PriorityBox = new System.Windows.Forms.ComboBox();
+            this.label28 = new System.Windows.Forms.Label();
+            this.cmb_filetype = new System.Windows.Forms.ComboBox();
+            this.cmb_subtitlemode = new System.Windows.Forms.ComboBox();
+            this.lbl_subtitlemode = new System.Windows.Forms.Label();
+            this.lbl_filetype = new System.Windows.Forms.Label();
+            this.lbl_subtitletemplate = new System.Windows.Forms.Label();
+            this.textbox_subtitletemplate = new System.Windows.Forms.TextBox();
+            this.label19 = new System.Windows.Forms.Label();
+            this.textBox_subtitlesuffix = new System.Windows.Forms.TextBox();
+            this.lbl_startoffset = new System.Windows.Forms.Label();
+            this.textBox_startoffset = new System.Windows.Forms.TextBox();
+            this.lbl_endofset = new System.Windows.Forms.Label();
+            this.textBox_endoffset = new System.Windows.Forms.TextBox();
+            this.lbl_enablesubtitle = new System.Windows.Forms.Label();
+            this.cmb_enablesubtitle = new System.Windows.Forms.ComboBox();
+            this.lbl_subtitleport = new System.Windows.Forms.Label();
+            this.textBox_subtitleport = new System.Windows.Forms.TextBox();
+            this.tp_NetStrm = new System.Windows.Forms.TabPage();
+            this.cmbStreamEnble = new System.Windows.Forms.ComboBox();
+            this.VBitrate = new System.Windows.Forms.TextBox();
+            this.label26 = new System.Windows.Forms.Label();
+            this.TxtConfig = new System.Windows.Forms.TextBox();
+            this.TxtURL = new System.Windows.Forms.TextBox();
+            this.label27 = new System.Windows.Forms.Label();
+            this.cmbstrmtyp = new System.Windows.Forms.ComboBox();
+            this.label24 = new System.Windows.Forms.Label();
+            this.label23 = new System.Windows.Forms.Label();
+            this.label25 = new System.Windows.Forms.Label();
+            this.HEADPANNEL = new System.Windows.Forms.Panel();
+            this.BtnClose = new System.Windows.Forms.Button();
+            this.label14 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.Txtdelaytimeincmnd = new System.Windows.Forms.TextBox();
+            this.lbldelytime = new System.Windows.Forms.Label();
+            this.tabControl1.SuspendLayout();
+            this.tp_channelsetting.SuspendLayout();
+            this.groupBox1.SuspendLayout();
+            this.tp_genralsetting.SuspendLayout();
+            this.tp_AsRun.SuspendLayout();
+            this.tp_subtitle.SuspendLayout();
+            this.tp_NetStrm.SuspendLayout();
+            this.HEADPANNEL.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // ChannelNamelbl
+            // 
+            this.ChannelNamelbl.AutoSize = true;
+            this.ChannelNamelbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ChannelNamelbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ChannelNamelbl.ForeColor = System.Drawing.Color.White;
+            this.ChannelNamelbl.Location = new System.Drawing.Point(13, 21);
+            this.ChannelNamelbl.Name = "ChannelNamelbl";
+            this.ChannelNamelbl.Size = new System.Drawing.Size(95, 17);
+            this.ChannelNamelbl.TabIndex = 0;
+            this.ChannelNamelbl.Text = "Channel Name:";
+            // 
+            // ChannelTypelbl
+            // 
+            this.ChannelTypelbl.AutoSize = true;
+            this.ChannelTypelbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ChannelTypelbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ChannelTypelbl.ForeColor = System.Drawing.Color.White;
+            this.ChannelTypelbl.Location = new System.Drawing.Point(13, 54);
+            this.ChannelTypelbl.Name = "ChannelTypelbl";
+            this.ChannelTypelbl.Size = new System.Drawing.Size(87, 17);
+            this.ChannelTypelbl.TabIndex = 1;
+            this.ChannelTypelbl.Text = "Channel Type:";
+            // 
+            // DbTypelbl
+            // 
+            this.DbTypelbl.AutoSize = true;
+            this.DbTypelbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.DbTypelbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DbTypelbl.ForeColor = System.Drawing.Color.White;
+            this.DbTypelbl.Location = new System.Drawing.Point(37, 69);
+            this.DbTypelbl.Name = "DbTypelbl";
+            this.DbTypelbl.Size = new System.Drawing.Size(57, 17);
+            this.DbTypelbl.TabIndex = 2;
+            this.DbTypelbl.Text = "Db Type:";
+            // 
+            // DbIPAddresslbl
+            // 
+            this.DbIPAddresslbl.AutoSize = true;
+            this.DbIPAddresslbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.DbIPAddresslbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DbIPAddresslbl.ForeColor = System.Drawing.Color.White;
+            this.DbIPAddresslbl.Location = new System.Drawing.Point(34, 143);
+            this.DbIPAddresslbl.Name = "DbIPAddresslbl";
+            this.DbIPAddresslbl.Size = new System.Drawing.Size(83, 17);
+            this.DbIPAddresslbl.TabIndex = 3;
+            this.DbIPAddresslbl.Text = "Db IPAddress:";
+            // 
+            // DbPortlbl
+            // 
+            this.DbPortlbl.AutoSize = true;
+            this.DbPortlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.DbPortlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DbPortlbl.ForeColor = System.Drawing.Color.White;
+            this.DbPortlbl.Location = new System.Drawing.Point(34, 254);
+            this.DbPortlbl.Name = "DbPortlbl";
+            this.DbPortlbl.Size = new System.Drawing.Size(53, 17);
+            this.DbPortlbl.TabIndex = 4;
+            this.DbPortlbl.Text = "Db Port:";
+            // 
+            // DbUsernamelbl
+            // 
+            this.DbUsernamelbl.AutoSize = true;
+            this.DbUsernamelbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.DbUsernamelbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DbUsernamelbl.ForeColor = System.Drawing.Color.White;
+            this.DbUsernamelbl.Location = new System.Drawing.Point(35, 180);
+            this.DbUsernamelbl.Name = "DbUsernamelbl";
+            this.DbUsernamelbl.Size = new System.Drawing.Size(88, 17);
+            this.DbUsernamelbl.TabIndex = 5;
+            this.DbUsernamelbl.Text = "Db Username:";
+            // 
+            // DbPasswordlbl
+            // 
+            this.DbPasswordlbl.AutoSize = true;
+            this.DbPasswordlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.DbPasswordlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DbPasswordlbl.ForeColor = System.Drawing.Color.White;
+            this.DbPasswordlbl.Location = new System.Drawing.Point(34, 217);
+            this.DbPasswordlbl.Name = "DbPasswordlbl";
+            this.DbPasswordlbl.Size = new System.Drawing.Size(82, 17);
+            this.DbPasswordlbl.TabIndex = 6;
+            this.DbPasswordlbl.Text = "Db Password:";
+            // 
+            // DbNamelbl
+            // 
+            this.DbNamelbl.AutoSize = true;
+            this.DbNamelbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.DbNamelbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DbNamelbl.ForeColor = System.Drawing.Color.White;
+            this.DbNamelbl.Location = new System.Drawing.Point(35, 106);
+            this.DbNamelbl.Name = "DbNamelbl";
+            this.DbNamelbl.Size = new System.Drawing.Size(65, 17);
+            this.DbNamelbl.TabIndex = 7;
+            this.DbNamelbl.Text = "Db Name:";
+            // 
+            // ReceivingPortlbl
+            // 
+            this.ReceivingPortlbl.AutoSize = true;
+            this.ReceivingPortlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ReceivingPortlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ReceivingPortlbl.ForeColor = System.Drawing.Color.White;
+            this.ReceivingPortlbl.Location = new System.Drawing.Point(9, 115);
+            this.ReceivingPortlbl.Name = "ReceivingPortlbl";
+            this.ReceivingPortlbl.Size = new System.Drawing.Size(90, 17);
+            this.ReceivingPortlbl.TabIndex = 9;
+            this.ReceivingPortlbl.Text = "Receiving Port:";
+            // 
+            // LTCPortlbl
+            // 
+            this.LTCPortlbl.AutoSize = true;
+            this.LTCPortlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.LTCPortlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LTCPortlbl.ForeColor = System.Drawing.Color.White;
+            this.LTCPortlbl.Location = new System.Drawing.Point(13, 82);
+            this.LTCPortlbl.Name = "LTCPortlbl";
+            this.LTCPortlbl.Size = new System.Drawing.Size(56, 17);
+            this.LTCPortlbl.TabIndex = 10;
+            this.LTCPortlbl.Text = "LTC Port:";
+            // 
+            // ReconcileKeyChecklbl
+            // 
+            this.ReconcileKeyChecklbl.AutoSize = true;
+            this.ReconcileKeyChecklbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ReconcileKeyChecklbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ReconcileKeyChecklbl.ForeColor = System.Drawing.Color.White;
+            this.ReconcileKeyChecklbl.Location = new System.Drawing.Point(283, 143);
+            this.ReconcileKeyChecklbl.Name = "ReconcileKeyChecklbl";
+            this.ReconcileKeyChecklbl.Size = new System.Drawing.Size(123, 17);
+            this.ReconcileKeyChecklbl.TabIndex = 11;
+            this.ReconcileKeyChecklbl.Text = "ReconcileKey Check:";
+            // 
+            // OverlappingChecklbl
+            // 
+            this.OverlappingChecklbl.AutoSize = true;
+            this.OverlappingChecklbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.OverlappingChecklbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.OverlappingChecklbl.ForeColor = System.Drawing.Color.White;
+            this.OverlappingChecklbl.Location = new System.Drawing.Point(284, 217);
+            this.OverlappingChecklbl.Name = "OverlappingChecklbl";
+            this.OverlappingChecklbl.Size = new System.Drawing.Size(118, 17);
+            this.OverlappingChecklbl.TabIndex = 12;
+            this.OverlappingChecklbl.Text = "Overlapping Check:";
+            // 
+            // SubtitleChecklbl
+            // 
+            this.SubtitleChecklbl.AutoSize = true;
+            this.SubtitleChecklbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.SubtitleChecklbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.SubtitleChecklbl.ForeColor = System.Drawing.Color.White;
+            this.SubtitleChecklbl.Location = new System.Drawing.Point(285, 180);
+            this.SubtitleChecklbl.Name = "SubtitleChecklbl";
+            this.SubtitleChecklbl.Size = new System.Drawing.Size(92, 17);
+            this.SubtitleChecklbl.TabIndex = 13;
+            this.SubtitleChecklbl.Text = "Subtitle Check:";
+            // 
+            // PMSPacketOnlbl
+            // 
+            this.PMSPacketOnlbl.AutoSize = true;
+            this.PMSPacketOnlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.PMSPacketOnlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.PMSPacketOnlbl.ForeColor = System.Drawing.Color.White;
+            this.PMSPacketOnlbl.Location = new System.Drawing.Point(684, 151);
+            this.PMSPacketOnlbl.Name = "PMSPacketOnlbl";
+            this.PMSPacketOnlbl.Size = new System.Drawing.Size(94, 17);
+            this.PMSPacketOnlbl.TabIndex = 14;
+            this.PMSPacketOnlbl.Text = "PMSPacket On:";
+            // 
+            // CueOffSetlbl
+            // 
+            this.CueOffSetlbl.AutoSize = true;
+            this.CueOffSetlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.CueOffSetlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CueOffSetlbl.ForeColor = System.Drawing.Color.White;
+            this.CueOffSetlbl.Location = new System.Drawing.Point(276, 154);
+            this.CueOffSetlbl.Name = "CueOffSetlbl";
+            this.CueOffSetlbl.Size = new System.Drawing.Size(73, 17);
+            this.CueOffSetlbl.TabIndex = 15;
+            this.CueOffSetlbl.Text = "Cue OffSet:";
+            // 
+            // PromoPrefixlbl
+            // 
+            this.PromoPrefixlbl.AutoSize = true;
+            this.PromoPrefixlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.PromoPrefixlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.PromoPrefixlbl.ForeColor = System.Drawing.Color.White;
+            this.PromoPrefixlbl.Location = new System.Drawing.Point(283, 69);
+            this.PromoPrefixlbl.Name = "PromoPrefixlbl";
+            this.PromoPrefixlbl.Size = new System.Drawing.Size(82, 17);
+            this.PromoPrefixlbl.TabIndex = 16;
+            this.PromoPrefixlbl.Text = "Promo Prefix:";
+            // 
+            // ProgramPrefixlbl
+            // 
+            this.ProgramPrefixlbl.AutoSize = true;
+            this.ProgramPrefixlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ProgramPrefixlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ProgramPrefixlbl.ForeColor = System.Drawing.Color.White;
+            this.ProgramPrefixlbl.Location = new System.Drawing.Point(284, 106);
+            this.ProgramPrefixlbl.Name = "ProgramPrefixlbl";
+            this.ProgramPrefixlbl.Size = new System.Drawing.Size(93, 17);
+            this.ProgramPrefixlbl.TabIndex = 17;
+            this.ProgramPrefixlbl.Text = "Program Prefix:";
+            // 
+            // CommercialPrefixlbl
+            // 
+            this.CommercialPrefixlbl.AutoSize = true;
+            this.CommercialPrefixlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.CommercialPrefixlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CommercialPrefixlbl.ForeColor = System.Drawing.Color.White;
+            this.CommercialPrefixlbl.Location = new System.Drawing.Point(281, 32);
+            this.CommercialPrefixlbl.Name = "CommercialPrefixlbl";
+            this.CommercialPrefixlbl.Size = new System.Drawing.Size(113, 17);
+            this.CommercialPrefixlbl.TabIndex = 18;
+            this.CommercialPrefixlbl.Text = "Commercial Prefix:";
+            // 
+            // TemplatePathlbl
+            // 
+            this.TemplatePathlbl.AutoSize = true;
+            this.TemplatePathlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.TemplatePathlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TemplatePathlbl.ForeColor = System.Drawing.Color.White;
+            this.TemplatePathlbl.Location = new System.Drawing.Point(276, 183);
+            this.TemplatePathlbl.Name = "TemplatePathlbl";
+            this.TemplatePathlbl.Size = new System.Drawing.Size(92, 17);
+            this.TemplatePathlbl.TabIndex = 19;
+            this.TemplatePathlbl.Text = "Template Path:";
+            // 
+            // ContentPathlbl
+            // 
+            this.ContentPathlbl.AutoSize = true;
+            this.ContentPathlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ContentPathlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ContentPathlbl.ForeColor = System.Drawing.Color.White;
+            this.ContentPathlbl.Location = new System.Drawing.Point(276, 248);
+            this.ContentPathlbl.Name = "ContentPathlbl";
+            this.ContentPathlbl.Size = new System.Drawing.Size(134, 17);
+            this.ContentPathlbl.TabIndex = 20;
+            this.ContentPathlbl.Text = "Content Path [LOCAL]:";
+            // 
+            // SubtitlePathlbl
+            // 
+            this.SubtitlePathlbl.AutoSize = true;
+            this.SubtitlePathlbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.SubtitlePathlbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.SubtitlePathlbl.ForeColor = System.Drawing.Color.White;
+            this.SubtitlePathlbl.Location = new System.Drawing.Point(276, 216);
+            this.SubtitlePathlbl.Name = "SubtitlePathlbl";
+            this.SubtitlePathlbl.Size = new System.Drawing.Size(82, 17);
+            this.SubtitlePathlbl.TabIndex = 21;
+            this.SubtitlePathlbl.Text = "Subtitle Path:";
+            // 
+            // ChannelnameValuelbl
+            // 
+            this.ChannelnameValuelbl.AutoSize = true;
+            this.ChannelnameValuelbl.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.ChannelnameValuelbl.ForeColor = System.Drawing.Color.Linen;
+            this.ChannelnameValuelbl.Location = new System.Drawing.Point(127, 21);
+            this.ChannelnameValuelbl.Name = "ChannelnameValuelbl";
+            this.ChannelnameValuelbl.Size = new System.Drawing.Size(86, 17);
+            this.ChannelnameValuelbl.TabIndex = 1;
+            this.ChannelnameValuelbl.Text = "ChannelName";
+            // 
+            // sdradiobutton
+            // 
+            this.sdradiobutton.AutoSize = true;
+            this.sdradiobutton.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.sdradiobutton.ForeColor = System.Drawing.Color.Coral;
+            this.sdradiobutton.Location = new System.Drawing.Point(177, 54);
+            this.sdradiobutton.Name = "sdradiobutton";
+            this.sdradiobutton.Size = new System.Drawing.Size(41, 21);
+            this.sdradiobutton.TabIndex = 3;
+            this.sdradiobutton.Text = "SD";
+            this.sdradiobutton.UseVisualStyleBackColor = true;
+            // 
+            // hdradiobutton
+            // 
+            this.hdradiobutton.AutoSize = true;
+            this.hdradiobutton.Checked = true;
+            this.hdradiobutton.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.hdradiobutton.ForeColor = System.Drawing.Color.Coral;
+            this.hdradiobutton.Location = new System.Drawing.Point(127, 54);
+            this.hdradiobutton.Name = "hdradiobutton";
+            this.hdradiobutton.Size = new System.Drawing.Size(44, 21);
+            this.hdradiobutton.TabIndex = 2;
+            this.hdradiobutton.TabStop = true;
+            this.hdradiobutton.Text = "HD";
+            this.hdradiobutton.UseVisualStyleBackColor = true;
+            // 
+            // dbnamevaluetxtbox
+            // 
+            this.dbnamevaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dbnamevaluetxtbox.Location = new System.Drawing.Point(130, 106);
+            this.dbnamevaluetxtbox.Name = "dbnamevaluetxtbox";
+            this.dbnamevaluetxtbox.Size = new System.Drawing.Size(122, 25);
+            this.dbnamevaluetxtbox.TabIndex = 3;
+            // 
+            // dbipadvaluetxtbox
+            // 
+            this.dbipadvaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dbipadvaluetxtbox.Location = new System.Drawing.Point(130, 143);
+            this.dbipadvaluetxtbox.Name = "dbipadvaluetxtbox";
+            this.dbipadvaluetxtbox.Size = new System.Drawing.Size(122, 25);
+            this.dbipadvaluetxtbox.TabIndex = 4;
+            this.dbipadvaluetxtbox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.MultiCastIP_KeyPress);
+            // 
+            // dbuservaluetxtbox
+            // 
+            this.dbuservaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dbuservaluetxtbox.Location = new System.Drawing.Point(130, 180);
+            this.dbuservaluetxtbox.Name = "dbuservaluetxtbox";
+            this.dbuservaluetxtbox.Size = new System.Drawing.Size(122, 25);
+            this.dbuservaluetxtbox.TabIndex = 5;
+            // 
+            // dbpassvaluetxtbox
+            // 
+            this.dbpassvaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dbpassvaluetxtbox.Location = new System.Drawing.Point(130, 217);
+            this.dbpassvaluetxtbox.Name = "dbpassvaluetxtbox";
+            this.dbpassvaluetxtbox.Size = new System.Drawing.Size(122, 25);
+            this.dbpassvaluetxtbox.TabIndex = 6;
+            // 
+            // dbportvaluetxtbox
+            // 
+            this.dbportvaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dbportvaluetxtbox.Location = new System.Drawing.Point(130, 254);
+            this.dbportvaluetxtbox.Name = "dbportvaluetxtbox";
+            this.dbportvaluetxtbox.Size = new System.Drawing.Size(122, 25);
+            this.dbportvaluetxtbox.TabIndex = 7;
+            this.dbportvaluetxtbox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.dbportvaluetxtbox_KeyPress);
+            // 
+            // templatepathvaluetxtbox
+            // 
+            this.templatepathvaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.templatepathvaluetxtbox.Location = new System.Drawing.Point(416, 183);
+            this.templatepathvaluetxtbox.Name = "templatepathvaluetxtbox";
+            this.templatepathvaluetxtbox.Size = new System.Drawing.Size(506, 25);
+            this.templatepathvaluetxtbox.TabIndex = 15;
+            this.templatepathvaluetxtbox.Enter += new System.EventHandler(this.templatepathvaluetxtbox_Enter);
+            // 
+            // subtitlepathvaluetxtbox
+            // 
+            this.subtitlepathvaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.subtitlepathvaluetxtbox.Location = new System.Drawing.Point(416, 214);
+            this.subtitlepathvaluetxtbox.Name = "subtitlepathvaluetxtbox";
+            this.subtitlepathvaluetxtbox.Size = new System.Drawing.Size(506, 25);
+            this.subtitlepathvaluetxtbox.TabIndex = 16;
+            // 
+            // contentpathvaluetxtbox
+            // 
+            this.contentpathvaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.contentpathvaluetxtbox.Location = new System.Drawing.Point(416, 245);
+            this.contentpathvaluetxtbox.Name = "contentpathvaluetxtbox";
+            this.contentpathvaluetxtbox.Size = new System.Drawing.Size(506, 25);
+            this.contentpathvaluetxtbox.TabIndex = 17;
+            // 
+            // reconcilekeyvaluecmbbox
+            // 
+            this.reconcilekeyvaluecmbbox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.reconcilekeyvaluecmbbox.Enabled = false;
+            this.reconcilekeyvaluecmbbox.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.reconcilekeyvaluecmbbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.reconcilekeyvaluecmbbox.FormattingEnabled = true;
+            this.reconcilekeyvaluecmbbox.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.reconcilekeyvaluecmbbox.Location = new System.Drawing.Point(429, 143);
+            this.reconcilekeyvaluecmbbox.Name = "reconcilekeyvaluecmbbox";
+            this.reconcilekeyvaluecmbbox.Size = new System.Drawing.Size(121, 25);
+            this.reconcilekeyvaluecmbbox.TabIndex = 11;
+            // 
+            // overlappingvaluecmbbox
+            // 
+            this.overlappingvaluecmbbox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.overlappingvaluecmbbox.Enabled = false;
+            this.overlappingvaluecmbbox.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.overlappingvaluecmbbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.overlappingvaluecmbbox.FormattingEnabled = true;
+            this.overlappingvaluecmbbox.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.overlappingvaluecmbbox.Location = new System.Drawing.Point(429, 217);
+            this.overlappingvaluecmbbox.Name = "overlappingvaluecmbbox";
+            this.overlappingvaluecmbbox.Size = new System.Drawing.Size(121, 25);
+            this.overlappingvaluecmbbox.TabIndex = 13;
+            // 
+            // pmspacketvaluecmbbox
+            // 
+            this.pmspacketvaluecmbbox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.pmspacketvaluecmbbox.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.pmspacketvaluecmbbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.pmspacketvaluecmbbox.FormattingEnabled = true;
+            this.pmspacketvaluecmbbox.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.pmspacketvaluecmbbox.Location = new System.Drawing.Point(798, 151);
+            this.pmspacketvaluecmbbox.Name = "pmspacketvaluecmbbox";
+            this.pmspacketvaluecmbbox.Size = new System.Drawing.Size(121, 25);
+            this.pmspacketvaluecmbbox.TabIndex = 10;
+            // 
+            // subtitlevaluecmbbox
+            // 
+            this.subtitlevaluecmbbox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.subtitlevaluecmbbox.Enabled = false;
+            this.subtitlevaluecmbbox.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.subtitlevaluecmbbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.subtitlevaluecmbbox.FormattingEnabled = true;
+            this.subtitlevaluecmbbox.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.subtitlevaluecmbbox.Location = new System.Drawing.Point(429, 180);
+            this.subtitlevaluecmbbox.Name = "subtitlevaluecmbbox";
+            this.subtitlevaluecmbbox.Size = new System.Drawing.Size(121, 25);
+            this.subtitlevaluecmbbox.TabIndex = 12;
+            // 
+            // recportvaluetxtbox
+            // 
+            this.recportvaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.recportvaluetxtbox.Location = new System.Drawing.Point(127, 115);
+            this.recportvaluetxtbox.Name = "recportvaluetxtbox";
+            this.recportvaluetxtbox.Size = new System.Drawing.Size(122, 25);
+            this.recportvaluetxtbox.TabIndex = 5;
+            this.recportvaluetxtbox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.recportvaluetxtbox_KeyPress);
+            // 
+            // ltcportvaluetxtbox
+            // 
+            this.ltcportvaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.ltcportvaluetxtbox.Location = new System.Drawing.Point(127, 82);
+            this.ltcportvaluetxtbox.Name = "ltcportvaluetxtbox";
+            this.ltcportvaluetxtbox.Size = new System.Drawing.Size(122, 25);
+            this.ltcportvaluetxtbox.TabIndex = 4;
+            this.ltcportvaluetxtbox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ltcportvaluetxtbox_KeyPress);
+            // 
+            // CueOffSettxtbox
+            // 
+            this.CueOffSettxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.CueOffSettxtbox.Location = new System.Drawing.Point(469, 151);
+            this.CueOffSettxtbox.Name = "CueOffSettxtbox";
+            this.CueOffSettxtbox.Size = new System.Drawing.Size(187, 25);
+            this.CueOffSettxtbox.TabIndex = 14;
+            // 
+            // commprevaluetxtbox
+            // 
+            this.commprevaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.commprevaluetxtbox.Location = new System.Drawing.Point(429, 32);
+            this.commprevaluetxtbox.Name = "commprevaluetxtbox";
+            this.commprevaluetxtbox.ReadOnly = true;
+            this.commprevaluetxtbox.Size = new System.Drawing.Size(122, 25);
+            this.commprevaluetxtbox.TabIndex = 8;
+            // 
+            // progprevaluetxtbox
+            // 
+            this.progprevaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.progprevaluetxtbox.Location = new System.Drawing.Point(429, 106);
+            this.progprevaluetxtbox.Name = "progprevaluetxtbox";
+            this.progprevaluetxtbox.ReadOnly = true;
+            this.progprevaluetxtbox.Size = new System.Drawing.Size(122, 25);
+            this.progprevaluetxtbox.TabIndex = 10;
+            // 
+            // promoprevaluetxtbox
+            // 
+            this.promoprevaluetxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.promoprevaluetxtbox.Location = new System.Drawing.Point(429, 69);
+            this.promoprevaluetxtbox.Name = "promoprevaluetxtbox";
+            this.promoprevaluetxtbox.ReadOnly = true;
+            this.promoprevaluetxtbox.Size = new System.Drawing.Size(122, 25);
+            this.promoprevaluetxtbox.TabIndex = 9;
+            // 
+            // Savebutton
+            // 
+            this.Savebutton.BackColor = System.Drawing.Color.LightSeaGreen;
+            this.Savebutton.FlatAppearance.BorderSize = 0;
+            this.Savebutton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Savebutton.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Savebutton.ForeColor = System.Drawing.Color.Azure;
+            this.Savebutton.Location = new System.Drawing.Point(813, 421);
+            this.Savebutton.Name = "Savebutton";
+            this.Savebutton.Size = new System.Drawing.Size(79, 32);
+            this.Savebutton.TabIndex = 47;
+            this.Savebutton.Text = "Save";
+            this.Savebutton.UseVisualStyleBackColor = false;
+            this.Savebutton.Click += new System.EventHandler(this.Savebutton_Click);
+            // 
+            // BTN_TEMPPATH_BROWSE
+            // 
+            this.BTN_TEMPPATH_BROWSE.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.BTN_TEMPPATH_BROWSE.FlatAppearance.BorderSize = 0;
+            this.BTN_TEMPPATH_BROWSE.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BTN_TEMPPATH_BROWSE.ForeColor = System.Drawing.Color.White;
+            this.BTN_TEMPPATH_BROWSE.Location = new System.Drawing.Point(937, 183);
+            this.BTN_TEMPPATH_BROWSE.Name = "BTN_TEMPPATH_BROWSE";
+            this.BTN_TEMPPATH_BROWSE.Size = new System.Drawing.Size(43, 23);
+            this.BTN_TEMPPATH_BROWSE.TabIndex = 48;
+            this.BTN_TEMPPATH_BROWSE.Text = "...";
+            this.BTN_TEMPPATH_BROWSE.UseVisualStyleBackColor = false;
+            this.BTN_TEMPPATH_BROWSE.Click += new System.EventHandler(this.BTN_TEMPPATH_BROWSE_Click);
+            // 
+            // BTN_SUBPATH_BROWSE
+            // 
+            this.BTN_SUBPATH_BROWSE.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.BTN_SUBPATH_BROWSE.FlatAppearance.BorderSize = 0;
+            this.BTN_SUBPATH_BROWSE.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BTN_SUBPATH_BROWSE.ForeColor = System.Drawing.Color.White;
+            this.BTN_SUBPATH_BROWSE.Location = new System.Drawing.Point(937, 214);
+            this.BTN_SUBPATH_BROWSE.Name = "BTN_SUBPATH_BROWSE";
+            this.BTN_SUBPATH_BROWSE.Size = new System.Drawing.Size(43, 23);
+            this.BTN_SUBPATH_BROWSE.TabIndex = 49;
+            this.BTN_SUBPATH_BROWSE.Text = "...";
+            this.BTN_SUBPATH_BROWSE.UseVisualStyleBackColor = false;
+            this.BTN_SUBPATH_BROWSE.Click += new System.EventHandler(this.BTN_SUBPATH_BROWSE_Click);
+            // 
+            // BTN_CONTENTPATH_BROWSE
+            // 
+            this.BTN_CONTENTPATH_BROWSE.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.BTN_CONTENTPATH_BROWSE.FlatAppearance.BorderSize = 0;
+            this.BTN_CONTENTPATH_BROWSE.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BTN_CONTENTPATH_BROWSE.ForeColor = System.Drawing.Color.White;
+            this.BTN_CONTENTPATH_BROWSE.Location = new System.Drawing.Point(937, 245);
+            this.BTN_CONTENTPATH_BROWSE.Name = "BTN_CONTENTPATH_BROWSE";
+            this.BTN_CONTENTPATH_BROWSE.Size = new System.Drawing.Size(43, 23);
+            this.BTN_CONTENTPATH_BROWSE.TabIndex = 50;
+            this.BTN_CONTENTPATH_BROWSE.Text = "...";
+            this.BTN_CONTENTPATH_BROWSE.UseVisualStyleBackColor = false;
+            this.BTN_CONTENTPATH_BROWSE.Click += new System.EventHandler(this.BTN_CONTENTPATH_BROWSE_Click);
+            // 
+            // ndioutputnamelbl
+            // 
+            this.ndioutputnamelbl.AutoSize = true;
+            this.ndioutputnamelbl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ndioutputnamelbl.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ndioutputnamelbl.ForeColor = System.Drawing.Color.White;
+            this.ndioutputnamelbl.Location = new System.Drawing.Point(276, 88);
+            this.ndioutputnamelbl.Name = "ndioutputnamelbl";
+            this.ndioutputnamelbl.Size = new System.Drawing.Size(113, 17);
+            this.ndioutputnamelbl.TabIndex = 51;
+            this.ndioutputnamelbl.Text = "NDI Output Name:";
+            // 
+            // ndioutputnametxtbox
+            // 
+            this.ndioutputnametxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.ndioutputnametxtbox.Location = new System.Drawing.Point(470, 88);
+            this.ndioutputnametxtbox.Name = "ndioutputnametxtbox";
+            this.ndioutputnametxtbox.Size = new System.Drawing.Size(187, 25);
+            this.ndioutputnametxtbox.TabIndex = 12;
+            // 
+            // autoupdatetemplatechkbox
+            // 
+            this.autoupdatetemplatechkbox.AutoSize = true;
+            this.autoupdatetemplatechkbox.BackColor = System.Drawing.Color.Black;
+            this.autoupdatetemplatechkbox.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F);
+            this.autoupdatetemplatechkbox.ForeColor = System.Drawing.Color.White;
+            this.autoupdatetemplatechkbox.Location = new System.Drawing.Point(469, 62);
+            this.autoupdatetemplatechkbox.Name = "autoupdatetemplatechkbox";
+            this.autoupdatetemplatechkbox.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.autoupdatetemplatechkbox.Size = new System.Drawing.Size(15, 14);
+            this.autoupdatetemplatechkbox.TabIndex = 11;
+            this.autoupdatetemplatechkbox.UseVisualStyleBackColor = false;
+            // 
+            // templaterefreshinterval_LBL
+            // 
+            this.templaterefreshinterval_LBL.AutoSize = true;
+            this.templaterefreshinterval_LBL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.templaterefreshinterval_LBL.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.templaterefreshinterval_LBL.ForeColor = System.Drawing.Color.White;
+            this.templaterefreshinterval_LBL.Location = new System.Drawing.Point(276, 119);
+            this.templaterefreshinterval_LBL.Name = "templaterefreshinterval_LBL";
+            this.templaterefreshinterval_LBL.Size = new System.Drawing.Size(182, 17);
+            this.templaterefreshinterval_LBL.TabIndex = 54;
+            this.templaterefreshinterval_LBL.Text = "Template Refresh Interval (ms):";
+            // 
+            // templaterefreshintervaltxtbox
+            // 
+            this.templaterefreshintervaltxtbox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.templaterefreshintervaltxtbox.Location = new System.Drawing.Point(470, 119);
+            this.templaterefreshintervaltxtbox.Name = "templaterefreshintervaltxtbox";
+            this.templaterefreshintervaltxtbox.Size = new System.Drawing.Size(187, 25);
+            this.templaterefreshintervaltxtbox.TabIndex = 13;
+            this.templaterefreshintervaltxtbox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.templaterefreshintervaltxtbox_KeyPress);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(350, 156);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(47, 13);
+            this.label1.TabIndex = 56;
+            this.label1.Text = "(Frames)";
+            // 
+            // lblenabledb
+            // 
+            this.lblenabledb.AutoSize = true;
+            this.lblenabledb.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblenabledb.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblenabledb.ForeColor = System.Drawing.Color.White;
+            this.lblenabledb.Location = new System.Drawing.Point(37, 32);
+            this.lblenabledb.Name = "lblenabledb";
+            this.lblenabledb.Size = new System.Drawing.Size(69, 17);
+            this.lblenabledb.TabIndex = 60;
+            this.lblenabledb.Text = "Enable DB:";
+            // 
+            // lblagentmode
+            // 
+            this.lblagentmode.AutoSize = true;
+            this.lblagentmode.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblagentmode.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblagentmode.ForeColor = System.Drawing.Color.White;
+            this.lblagentmode.Location = new System.Drawing.Point(9, 148);
+            this.lblagentmode.Name = "lblagentmode";
+            this.lblagentmode.Size = new System.Drawing.Size(80, 17);
+            this.lblagentmode.TabIndex = 61;
+            this.lblagentmode.Text = "Agent Mode:";
+            // 
+            // cmbagentmode
+            // 
+            this.cmbagentmode.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbagentmode.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cmbagentmode.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbagentmode.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.cmbagentmode.Location = new System.Drawing.Point(127, 148);
+            this.cmbagentmode.Name = "cmbagentmode";
+            this.cmbagentmode.Size = new System.Drawing.Size(121, 25);
+            this.cmbagentmode.TabIndex = 6;
+            // 
+            // cmbpreviewwindow
+            // 
+            this.cmbpreviewwindow.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbpreviewwindow.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cmbpreviewwindow.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbpreviewwindow.FormattingEnabled = true;
+            this.cmbpreviewwindow.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.cmbpreviewwindow.Location = new System.Drawing.Point(127, 181);
+            this.cmbpreviewwindow.Name = "cmbpreviewwindow";
+            this.cmbpreviewwindow.Size = new System.Drawing.Size(121, 25);
+            this.cmbpreviewwindow.TabIndex = 7;
+            // 
+            // lblpreviewwindow
+            // 
+            this.lblpreviewwindow.AutoSize = true;
+            this.lblpreviewwindow.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblpreviewwindow.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblpreviewwindow.ForeColor = System.Drawing.Color.White;
+            this.lblpreviewwindow.Location = new System.Drawing.Point(9, 181);
+            this.lblpreviewwindow.Name = "lblpreviewwindow";
+            this.lblpreviewwindow.Size = new System.Drawing.Size(103, 17);
+            this.lblpreviewwindow.TabIndex = 63;
+            this.lblpreviewwindow.Text = "Preview Window:";
+            // 
+            // lblkeyingmode
+            // 
+            this.lblkeyingmode.AutoSize = true;
+            this.lblkeyingmode.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblkeyingmode.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblkeyingmode.ForeColor = System.Drawing.Color.White;
+            this.lblkeyingmode.Location = new System.Drawing.Point(9, 214);
+            this.lblkeyingmode.Name = "lblkeyingmode";
+            this.lblkeyingmode.Size = new System.Drawing.Size(84, 17);
+            this.lblkeyingmode.TabIndex = 65;
+            this.lblkeyingmode.Text = "Keying Mode:";
+            // 
+            // cmbkeyingmode
+            // 
+            this.cmbkeyingmode.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbkeyingmode.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cmbkeyingmode.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbkeyingmode.FormattingEnabled = true;
+            this.cmbkeyingmode.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.cmbkeyingmode.Location = new System.Drawing.Point(127, 214);
+            this.cmbkeyingmode.Name = "cmbkeyingmode";
+            this.cmbkeyingmode.Size = new System.Drawing.Size(121, 25);
+            this.cmbkeyingmode.TabIndex = 8;
+            // 
+            // lblkeyerport
+            // 
+            this.lblkeyerport.AutoSize = true;
+            this.lblkeyerport.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblkeyerport.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblkeyerport.ForeColor = System.Drawing.Color.White;
+            this.lblkeyerport.Location = new System.Drawing.Point(9, 247);
+            this.lblkeyerport.Name = "lblkeyerport";
+            this.lblkeyerport.Size = new System.Drawing.Size(68, 17);
+            this.lblkeyerport.TabIndex = 68;
+            this.lblkeyerport.Text = "Keyer Port:";
+            // 
+            // txtkeyerport
+            // 
+            this.txtkeyerport.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtkeyerport.Location = new System.Drawing.Point(127, 247);
+            this.txtkeyerport.Name = "txtkeyerport";
+            this.txtkeyerport.Size = new System.Drawing.Size(122, 25);
+            this.txtkeyerport.TabIndex = 9;
+            this.txtkeyerport.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtkeyerport_KeyPress);
+            // 
+            // cmbscteenable
+            // 
+            this.cmbscteenable.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbscteenable.Enabled = false;
+            this.cmbscteenable.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cmbscteenable.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbscteenable.FormattingEnabled = true;
+            this.cmbscteenable.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.cmbscteenable.Location = new System.Drawing.Point(717, 32);
+            this.cmbscteenable.Name = "cmbscteenable";
+            this.cmbscteenable.Size = new System.Drawing.Size(121, 25);
+            this.cmbscteenable.TabIndex = 14;
+            // 
+            // lblscteenable
+            // 
+            this.lblscteenable.AutoSize = true;
+            this.lblscteenable.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblscteenable.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblscteenable.ForeColor = System.Drawing.Color.White;
+            this.lblscteenable.Location = new System.Drawing.Point(583, 32);
+            this.lblscteenable.Name = "lblscteenable";
+            this.lblscteenable.Size = new System.Drawing.Size(77, 17);
+            this.lblscteenable.TabIndex = 69;
+            this.lblscteenable.Text = "Scte Enable:";
+            // 
+            // txtsctetemplatename
+            // 
+            this.txtsctetemplatename.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtsctetemplatename.Location = new System.Drawing.Point(717, 69);
+            this.txtsctetemplatename.Name = "txtsctetemplatename";
+            this.txtsctetemplatename.ReadOnly = true;
+            this.txtsctetemplatename.Size = new System.Drawing.Size(122, 25);
+            this.txtsctetemplatename.TabIndex = 15;
+            // 
+            // lblsctetemplatename
+            // 
+            this.lblsctetemplatename.AutoSize = true;
+            this.lblsctetemplatename.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblsctetemplatename.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblsctetemplatename.ForeColor = System.Drawing.Color.White;
+            this.lblsctetemplatename.Location = new System.Drawing.Point(583, 69);
+            this.lblsctetemplatename.Name = "lblsctetemplatename";
+            this.lblsctetemplatename.Size = new System.Drawing.Size(129, 17);
+            this.lblsctetemplatename.TabIndex = 71;
+            this.lblsctetemplatename.Text = "Scte Template Name:";
+            // 
+            // lblscteip
+            // 
+            this.lblscteip.AutoSize = true;
+            this.lblscteip.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblscteip.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblscteip.ForeColor = System.Drawing.Color.White;
+            this.lblscteip.Location = new System.Drawing.Point(583, 106);
+            this.lblscteip.Name = "lblscteip";
+            this.lblscteip.Size = new System.Drawing.Size(49, 17);
+            this.lblscteip.TabIndex = 73;
+            this.lblscteip.Text = "Scte IP:";
+            // 
+            // txtscteip
+            // 
+            this.txtscteip.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtscteip.Location = new System.Drawing.Point(717, 106);
+            this.txtscteip.Name = "txtscteip";
+            this.txtscteip.ReadOnly = true;
+            this.txtscteip.Size = new System.Drawing.Size(122, 25);
+            this.txtscteip.TabIndex = 16;
+            this.txtscteip.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtscteip_KeyPress);
+            // 
+            // txtscteport
+            // 
+            this.txtscteport.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtscteport.Location = new System.Drawing.Point(717, 143);
+            this.txtscteport.Name = "txtscteport";
+            this.txtscteport.ReadOnly = true;
+            this.txtscteport.Size = new System.Drawing.Size(122, 25);
+            this.txtscteport.TabIndex = 17;
+            this.txtscteport.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtscteport_KeyPress);
+            // 
+            // lblscteport
+            // 
+            this.lblscteport.AutoSize = true;
+            this.lblscteport.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblscteport.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblscteport.ForeColor = System.Drawing.Color.White;
+            this.lblscteport.Location = new System.Drawing.Point(583, 143);
+            this.lblscteport.Name = "lblscteport";
+            this.lblscteport.Size = new System.Drawing.Size(61, 17);
+            this.lblscteport.TabIndex = 75;
+            this.lblscteport.Text = "Scte Port:";
+            // 
+            // txtsctepreroll
+            // 
+            this.txtsctepreroll.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtsctepreroll.Location = new System.Drawing.Point(717, 180);
+            this.txtsctepreroll.Name = "txtsctepreroll";
+            this.txtsctepreroll.ReadOnly = true;
+            this.txtsctepreroll.Size = new System.Drawing.Size(122, 25);
+            this.txtsctepreroll.TabIndex = 18;
+            this.txtsctepreroll.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtsctepreroll_KeyPress);
+            // 
+            // lblsctepreroll
+            // 
+            this.lblsctepreroll.AutoSize = true;
+            this.lblsctepreroll.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblsctepreroll.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblsctepreroll.ForeColor = System.Drawing.Color.White;
+            this.lblsctepreroll.Location = new System.Drawing.Point(586, 180);
+            this.lblsctepreroll.Name = "lblsctepreroll";
+            this.lblsctepreroll.Size = new System.Drawing.Size(74, 17);
+            this.lblsctepreroll.TabIndex = 77;
+            this.lblsctepreroll.Text = "Scte Preroll:";
+            // 
+            // cmbenabledb
+            // 
+            this.cmbenabledb.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbenabledb.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cmbenabledb.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbenabledb.FormattingEnabled = true;
+            this.cmbenabledb.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.cmbenabledb.Location = new System.Drawing.Point(130, 32);
+            this.cmbenabledb.Name = "cmbenabledb";
+            this.cmbenabledb.Size = new System.Drawing.Size(121, 25);
+            this.cmbenabledb.TabIndex = 1;
+            // 
+            // tabControl1
+            // 
+            this.tabControl1.Controls.Add(this.tp_channelsetting);
+            this.tabControl1.Controls.Add(this.tp_genralsetting);
+            this.tabControl1.Controls.Add(this.tp_AsRun);
+            this.tabControl1.Controls.Add(this.tp_subtitle);
+            this.tabControl1.Controls.Add(this.tp_NetStrm);
+            this.tabControl1.Location = new System.Drawing.Point(11, 41);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(1001, 385);
+            this.tabControl1.TabIndex = 80;
+            // 
+            // tp_channelsetting
+            // 
+            this.tp_channelsetting.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
+            this.tp_channelsetting.Controls.Add(this.lbldelytime);
+            this.tp_channelsetting.Controls.Add(this.Txtdelaytimeincmnd);
+            this.tp_channelsetting.Controls.Add(this.BrowseCnfFilePathBtn);
+            this.tp_channelsetting.Controls.Add(this.CnfFilePathTxt);
+            this.tp_channelsetting.Controls.Add(this.label36);
+            this.tp_channelsetting.Controls.Add(this.MulticastIpTxt);
+            this.tp_channelsetting.Controls.Add(this.label35);
+            this.tp_channelsetting.Controls.Add(this.onlyForMulticastChbx);
+            this.tp_channelsetting.Controls.Add(this.groupBox1);
+            this.tp_channelsetting.Controls.Add(this.label33);
+            this.tp_channelsetting.Controls.Add(this.DelayIncommand);
+            this.tp_channelsetting.Controls.Add(this.lbladddelaycheck);
+            this.tp_channelsetting.Controls.Add(this.cmb_keyerheartbeat);
+            this.tp_channelsetting.Controls.Add(this.label20);
+            this.tp_channelsetting.Controls.Add(this.cb_keyerType);
+            this.tp_channelsetting.Controls.Add(this.label17);
+            this.tp_channelsetting.Controls.Add(this.btnBrowseSeconPath);
+            this.tp_channelsetting.Controls.Add(this.txtSecondaryPath);
+            this.tp_channelsetting.Controls.Add(this.label16);
+            this.tp_channelsetting.Controls.Add(this.label2);
+            this.tp_channelsetting.Controls.Add(this.ChannelNamelbl);
+            this.tp_channelsetting.Controls.Add(this.BTN_CONTENTPATH_BROWSE);
+            this.tp_channelsetting.Controls.Add(this.ChannelnameValuelbl);
+            this.tp_channelsetting.Controls.Add(this.BTN_SUBPATH_BROWSE);
+            this.tp_channelsetting.Controls.Add(this.ChannelTypelbl);
+            this.tp_channelsetting.Controls.Add(this.BTN_TEMPPATH_BROWSE);
+            this.tp_channelsetting.Controls.Add(this.sdradiobutton);
+            this.tp_channelsetting.Controls.Add(this.hdradiobutton);
+            this.tp_channelsetting.Controls.Add(this.contentpathvaluetxtbox);
+            this.tp_channelsetting.Controls.Add(this.LTCPortlbl);
+            this.tp_channelsetting.Controls.Add(this.subtitlepathvaluetxtbox);
+            this.tp_channelsetting.Controls.Add(this.ReceivingPortlbl);
+            this.tp_channelsetting.Controls.Add(this.templatepathvaluetxtbox);
+            this.tp_channelsetting.Controls.Add(this.recportvaluetxtbox);
+            this.tp_channelsetting.Controls.Add(this.SubtitlePathlbl);
+            this.tp_channelsetting.Controls.Add(this.ltcportvaluetxtbox);
+            this.tp_channelsetting.Controls.Add(this.ContentPathlbl);
+            this.tp_channelsetting.Controls.Add(this.lblagentmode);
+            this.tp_channelsetting.Controls.Add(this.TemplatePathlbl);
+            this.tp_channelsetting.Controls.Add(this.cmbagentmode);
+            this.tp_channelsetting.Controls.Add(this.label1);
+            this.tp_channelsetting.Controls.Add(this.lblkeyerport);
+            this.tp_channelsetting.Controls.Add(this.templaterefreshintervaltxtbox);
+            this.tp_channelsetting.Controls.Add(this.txtkeyerport);
+            this.tp_channelsetting.Controls.Add(this.templaterefreshinterval_LBL);
+            this.tp_channelsetting.Controls.Add(this.lblpreviewwindow);
+            this.tp_channelsetting.Controls.Add(this.CueOffSettxtbox);
+            this.tp_channelsetting.Controls.Add(this.autoupdatetemplatechkbox);
+            this.tp_channelsetting.Controls.Add(this.cmbpreviewwindow);
+            this.tp_channelsetting.Controls.Add(this.ndioutputnametxtbox);
+            this.tp_channelsetting.Controls.Add(this.cmbkeyingmode);
+            this.tp_channelsetting.Controls.Add(this.ndioutputnamelbl);
+            this.tp_channelsetting.Controls.Add(this.lblkeyingmode);
+            this.tp_channelsetting.Controls.Add(this.PMSPacketOnlbl);
+            this.tp_channelsetting.Controls.Add(this.CueOffSetlbl);
+            this.tp_channelsetting.Controls.Add(this.pmspacketvaluecmbbox);
+            this.tp_channelsetting.Location = new System.Drawing.Point(4, 22);
+            this.tp_channelsetting.Name = "tp_channelsetting";
+            this.tp_channelsetting.Padding = new System.Windows.Forms.Padding(3);
+            this.tp_channelsetting.Size = new System.Drawing.Size(993, 359);
+            this.tp_channelsetting.TabIndex = 0;
+            this.tp_channelsetting.Text = "CHANNEL SETTING";
+            this.tp_channelsetting.Click += new System.EventHandler(this.tp_channelsetting_Click);
+            // 
+            // BrowseCnfFilePathBtn
+            // 
+            this.BrowseCnfFilePathBtn.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.BrowseCnfFilePathBtn.FlatAppearance.BorderSize = 0;
+            this.BrowseCnfFilePathBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BrowseCnfFilePathBtn.ForeColor = System.Drawing.Color.White;
+            this.BrowseCnfFilePathBtn.Location = new System.Drawing.Point(937, 308);
+            this.BrowseCnfFilePathBtn.Name = "BrowseCnfFilePathBtn";
+            this.BrowseCnfFilePathBtn.Size = new System.Drawing.Size(43, 23);
+            this.BrowseCnfFilePathBtn.TabIndex = 87;
+            this.BrowseCnfFilePathBtn.Text = "...";
+            this.BrowseCnfFilePathBtn.UseVisualStyleBackColor = false;
+            this.BrowseCnfFilePathBtn.Click += new System.EventHandler(this.BrowseCnfFilePathBtn_Click);
+            // 
+            // CnfFilePathTxt
+            // 
+            this.CnfFilePathTxt.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CnfFilePathTxt.Location = new System.Drawing.Point(416, 308);
+            this.CnfFilePathTxt.Name = "CnfFilePathTxt";
+            this.CnfFilePathTxt.Size = new System.Drawing.Size(506, 25);
+            this.CnfFilePathTxt.TabIndex = 85;
+            // 
+            // label36
+            // 
+            this.label36.AutoSize = true;
+            this.label36.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label36.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label36.ForeColor = System.Drawing.Color.White;
+            this.label36.Location = new System.Drawing.Point(276, 308);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(63, 17);
+            this.label36.TabIndex = 86;
+            this.label36.Text = "CNF Path:";
+            // 
+            // MulticastIpTxt
+            // 
+            this.MulticastIpTxt.Enabled = false;
+            this.MulticastIpTxt.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.MulticastIpTxt.Location = new System.Drawing.Point(126, 314);
+            this.MulticastIpTxt.Name = "MulticastIpTxt";
+            this.MulticastIpTxt.Size = new System.Drawing.Size(122, 25);
+            this.MulticastIpTxt.TabIndex = 84;
+            // 
+            // label35
+            // 
+            this.label35.AutoSize = true;
+            this.label35.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label35.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label35.ForeColor = System.Drawing.Color.White;
+            this.label35.Location = new System.Drawing.Point(29, 319);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(68, 17);
+            this.label35.TabIndex = 83;
+            this.label35.Text = "MulticastIP";
+            // 
+            // onlyForMulticastChbx
+            // 
+            this.onlyForMulticastChbx.AutoSize = true;
+            this.onlyForMulticastChbx.BackColor = System.Drawing.Color.Black;
+            this.onlyForMulticastChbx.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F);
+            this.onlyForMulticastChbx.ForeColor = System.Drawing.Color.White;
+            this.onlyForMulticastChbx.Location = new System.Drawing.Point(8, 322);
+            this.onlyForMulticastChbx.Name = "onlyForMulticastChbx";
+            this.onlyForMulticastChbx.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.onlyForMulticastChbx.Size = new System.Drawing.Size(15, 14);
+            this.onlyForMulticastChbx.TabIndex = 82;
+            this.onlyForMulticastChbx.UseVisualStyleBackColor = false;
+            this.onlyForMulticastChbx.CheckStateChanged += new System.EventHandler(this.onlyForMulticastChbx_CheckedChanged);
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.ntscrad);
+            this.groupBox1.Controls.Add(this.palrad);
+            this.groupBox1.ForeColor = System.Drawing.Color.White;
+            this.groupBox1.Location = new System.Drawing.Point(469, 21);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(132, 35);
+            this.groupBox1.TabIndex = 81;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Format type";
+            // 
+            // ntscrad
+            // 
+            this.ntscrad.AutoSize = true;
+            this.ntscrad.Location = new System.Drawing.Point(77, 13);
+            this.ntscrad.Name = "ntscrad";
+            this.ntscrad.Size = new System.Drawing.Size(54, 17);
+            this.ntscrad.TabIndex = 1;
+            this.ntscrad.TabStop = true;
+            this.ntscrad.Text = "NTSC";
+            this.ntscrad.UseVisualStyleBackColor = true;
+            // 
+            // palrad
+            // 
+            this.palrad.AutoSize = true;
+            this.palrad.Location = new System.Drawing.Point(18, 13);
+            this.palrad.Name = "palrad";
+            this.palrad.Size = new System.Drawing.Size(45, 17);
+            this.palrad.TabIndex = 0;
+            this.palrad.TabStop = true;
+            this.palrad.Text = "PAL";
+            this.palrad.UseVisualStyleBackColor = true;
+            // 
+            // label33
+            // 
+            this.label33.AutoSize = true;
+            this.label33.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label33.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label33.ForeColor = System.Drawing.Color.White;
+            this.label33.Location = new System.Drawing.Point(277, 34);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(82, 17);
+            this.label33.TabIndex = 80;
+            this.label33.Text = "VideoFormat:";
+            // 
+            // DelayIncommand
+            // 
+            this.DelayIncommand.AutoSize = true;
+            this.DelayIncommand.BackColor = System.Drawing.Color.Black;
+            this.DelayIncommand.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F);
+            this.DelayIncommand.ForeColor = System.Drawing.Color.White;
+            this.DelayIncommand.Location = new System.Drawing.Point(838, 58);
+            this.DelayIncommand.Name = "DelayIncommand";
+            this.DelayIncommand.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.DelayIncommand.Size = new System.Drawing.Size(15, 14);
+            this.DelayIncommand.TabIndex = 79;
+            this.DelayIncommand.UseVisualStyleBackColor = false;
+            // 
+            // lbladddelaycheck
+            // 
+            this.lbladddelaycheck.AutoSize = true;
+            this.lbladddelaycheck.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lbladddelaycheck.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbladddelaycheck.ForeColor = System.Drawing.Color.White;
+            this.lbladddelaycheck.Location = new System.Drawing.Point(680, 54);
+            this.lbladddelaycheck.Name = "lbladddelaycheck";
+            this.lbladddelaycheck.Size = new System.Drawing.Size(130, 17);
+            this.lbladddelaycheck.TabIndex = 78;
+            this.lbladddelaycheck.Text = "AddDelayInCommand";
+            // 
+            // cmb_keyerheartbeat
+            // 
+            this.cmb_keyerheartbeat.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmb_keyerheartbeat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cmb_keyerheartbeat.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmb_keyerheartbeat.FormattingEnabled = true;
+            this.cmb_keyerheartbeat.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.cmb_keyerheartbeat.Location = new System.Drawing.Point(798, 116);
+            this.cmb_keyerheartbeat.Name = "cmb_keyerheartbeat";
+            this.cmb_keyerheartbeat.Size = new System.Drawing.Size(121, 25);
+            this.cmb_keyerheartbeat.TabIndex = 76;
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label20.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label20.ForeColor = System.Drawing.Color.White;
+            this.label20.Location = new System.Drawing.Point(684, 119);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(102, 17);
+            this.label20.TabIndex = 75;
+            this.label20.Text = "Keyer Heartbeat:";
+            // 
+            // cb_keyerType
+            // 
+            this.cb_keyerType.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cb_keyerType.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cb_keyerType.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cb_keyerType.FormattingEnabled = true;
+            this.cb_keyerType.Items.AddRange(new object[] {
+            "disable",
+            "internal",
+            "external",
+            "fill",
+            "key"});
+            this.cb_keyerType.Location = new System.Drawing.Point(127, 280);
+            this.cb_keyerType.Name = "cb_keyerType";
+            this.cb_keyerType.Size = new System.Drawing.Size(121, 25);
+            this.cb_keyerType.TabIndex = 74;
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label17.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label17.ForeColor = System.Drawing.Color.White;
+            this.label17.Location = new System.Drawing.Point(10, 282);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(72, 17);
+            this.label17.TabIndex = 73;
+            this.label17.Text = "Keyer Type:";
+            // 
+            // btnBrowseSeconPath
+            // 
+            this.btnBrowseSeconPath.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnBrowseSeconPath.FlatAppearance.BorderSize = 0;
+            this.btnBrowseSeconPath.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBrowseSeconPath.ForeColor = System.Drawing.Color.White;
+            this.btnBrowseSeconPath.Location = new System.Drawing.Point(937, 276);
+            this.btnBrowseSeconPath.Name = "btnBrowseSeconPath";
+            this.btnBrowseSeconPath.Size = new System.Drawing.Size(43, 23);
+            this.btnBrowseSeconPath.TabIndex = 72;
+            this.btnBrowseSeconPath.Text = "...";
+            this.btnBrowseSeconPath.UseVisualStyleBackColor = false;
+            this.btnBrowseSeconPath.Click += new System.EventHandler(this.btnBrowseSeconPath_Click);
+            // 
+            // txtSecondaryPath
+            // 
+            this.txtSecondaryPath.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSecondaryPath.Location = new System.Drawing.Point(416, 276);
+            this.txtSecondaryPath.Name = "txtSecondaryPath";
+            this.txtSecondaryPath.Size = new System.Drawing.Size(506, 25);
+            this.txtSecondaryPath.TabIndex = 70;
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label16.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label16.ForeColor = System.Drawing.Color.White;
+            this.label16.Location = new System.Drawing.Point(277, 278);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(120, 17);
+            this.label16.TabIndex = 71;
+            this.label16.Text = "Content Path [NAS]:";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label2.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.Location = new System.Drawing.Point(275, 61);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(135, 17);
+            this.label2.TabIndex = 69;
+            this.label2.Text = "Auto Update Template";
+            // 
+            // tp_genralsetting
+            // 
+            this.tp_genralsetting.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
+            this.tp_genralsetting.Controls.Add(this.label34);
+            this.tp_genralsetting.Controls.Add(this.onlyForAsrunChbx);
+            this.tp_genralsetting.Controls.Add(this.dbTypeValueCmBx);
+            this.tp_genralsetting.Controls.Add(this.CmbGfxSqueez);
+            this.tp_genralsetting.Controls.Add(this.label29);
+            this.tp_genralsetting.Controls.Add(this.GFXClientEnable);
+            this.tp_genralsetting.Controls.Add(this.label30);
+            this.tp_genralsetting.Controls.Add(this.Ipgfxclient);
+            this.tp_genralsetting.Controls.Add(this.Portgfxclient);
+            this.tp_genralsetting.Controls.Add(this.ClientIP);
+            this.tp_genralsetting.Controls.Add(this.GfxClientPort);
+            this.tp_genralsetting.Controls.Add(this.txtEventCheckingTime);
+            this.tp_genralsetting.Controls.Add(this.label15);
+            this.tp_genralsetting.Controls.Add(this.lblenabledb);
+            this.tp_genralsetting.Controls.Add(this.txtsctepreroll);
+            this.tp_genralsetting.Controls.Add(this.cmbenabledb);
+            this.tp_genralsetting.Controls.Add(this.lblsctepreroll);
+            this.tp_genralsetting.Controls.Add(this.DbTypelbl);
+            this.tp_genralsetting.Controls.Add(this.txtscteport);
+            this.tp_genralsetting.Controls.Add(this.DbIPAddresslbl);
+            this.tp_genralsetting.Controls.Add(this.lblscteport);
+            this.tp_genralsetting.Controls.Add(this.DbPortlbl);
+            this.tp_genralsetting.Controls.Add(this.txtscteip);
+            this.tp_genralsetting.Controls.Add(this.DbUsernamelbl);
+            this.tp_genralsetting.Controls.Add(this.lblscteip);
+            this.tp_genralsetting.Controls.Add(this.DbPasswordlbl);
+            this.tp_genralsetting.Controls.Add(this.txtsctetemplatename);
+            this.tp_genralsetting.Controls.Add(this.DbNamelbl);
+            this.tp_genralsetting.Controls.Add(this.lblsctetemplatename);
+            this.tp_genralsetting.Controls.Add(this.dbnamevaluetxtbox);
+            this.tp_genralsetting.Controls.Add(this.cmbscteenable);
+            this.tp_genralsetting.Controls.Add(this.dbipadvaluetxtbox);
+            this.tp_genralsetting.Controls.Add(this.lblscteenable);
+            this.tp_genralsetting.Controls.Add(this.dbuservaluetxtbox);
+            this.tp_genralsetting.Controls.Add(this.dbpassvaluetxtbox);
+            this.tp_genralsetting.Controls.Add(this.dbportvaluetxtbox);
+            this.tp_genralsetting.Controls.Add(this.CommercialPrefixlbl);
+            this.tp_genralsetting.Controls.Add(this.ReconcileKeyChecklbl);
+            this.tp_genralsetting.Controls.Add(this.promoprevaluetxtbox);
+            this.tp_genralsetting.Controls.Add(this.OverlappingChecklbl);
+            this.tp_genralsetting.Controls.Add(this.progprevaluetxtbox);
+            this.tp_genralsetting.Controls.Add(this.SubtitleChecklbl);
+            this.tp_genralsetting.Controls.Add(this.commprevaluetxtbox);
+            this.tp_genralsetting.Controls.Add(this.PromoPrefixlbl);
+            this.tp_genralsetting.Controls.Add(this.ProgramPrefixlbl);
+            this.tp_genralsetting.Controls.Add(this.subtitlevaluecmbbox);
+            this.tp_genralsetting.Controls.Add(this.reconcilekeyvaluecmbbox);
+            this.tp_genralsetting.Controls.Add(this.overlappingvaluecmbbox);
+            this.tp_genralsetting.Location = new System.Drawing.Point(4, 22);
+            this.tp_genralsetting.Name = "tp_genralsetting";
+            this.tp_genralsetting.Padding = new System.Windows.Forms.Padding(3);
+            this.tp_genralsetting.Size = new System.Drawing.Size(993, 359);
+            this.tp_genralsetting.TabIndex = 1;
+            this.tp_genralsetting.Text = "GENERAL SETTING";
+            // 
+            // label34
+            // 
+            this.label34.AutoSize = true;
+            this.label34.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label34.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label34.ForeColor = System.Drawing.Color.White;
+            this.label34.Location = new System.Drawing.Point(37, 297);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(110, 17);
+            this.label34.TabIndex = 96;
+            this.label34.Text = "DB only For AsRun";
+            // 
+            // onlyForAsrunChbx
+            // 
+            this.onlyForAsrunChbx.AutoSize = true;
+            this.onlyForAsrunChbx.BackColor = System.Drawing.Color.Black;
+            this.onlyForAsrunChbx.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F);
+            this.onlyForAsrunChbx.ForeColor = System.Drawing.Color.White;
+            this.onlyForAsrunChbx.Location = new System.Drawing.Point(221, 298);
+            this.onlyForAsrunChbx.Name = "onlyForAsrunChbx";
+            this.onlyForAsrunChbx.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.onlyForAsrunChbx.Size = new System.Drawing.Size(15, 14);
+            this.onlyForAsrunChbx.TabIndex = 95;
+            this.onlyForAsrunChbx.UseVisualStyleBackColor = false;
+            // 
+            // dbTypeValueCmBx
+            // 
+            this.dbTypeValueCmBx.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.dbTypeValueCmBx.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.dbTypeValueCmBx.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dbTypeValueCmBx.FormattingEnabled = true;
+            this.dbTypeValueCmBx.Items.AddRange(new object[] {
+            "MYSQL",
+            "MYSQL8"});
+            this.dbTypeValueCmBx.Location = new System.Drawing.Point(130, 69);
+            this.dbTypeValueCmBx.Name = "dbTypeValueCmBx";
+            this.dbTypeValueCmBx.Size = new System.Drawing.Size(121, 25);
+            this.dbTypeValueCmBx.TabIndex = 94;
+            this.dbTypeValueCmBx.SelectedIndexChanged += new System.EventHandler(this.dbTypeValueCmBx_SelectedIndexChanged);
+            // 
+            // CmbGfxSqueez
+            // 
+            this.CmbGfxSqueez.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.CmbGfxSqueez.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.CmbGfxSqueez.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CmbGfxSqueez.FormattingEnabled = true;
+            this.CmbGfxSqueez.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.CmbGfxSqueez.Location = new System.Drawing.Point(428, 295);
+            this.CmbGfxSqueez.Name = "CmbGfxSqueez";
+            this.CmbGfxSqueez.Size = new System.Drawing.Size(121, 25);
+            this.CmbGfxSqueez.TabIndex = 93;
+            // 
+            // label29
+            // 
+            this.label29.AutoSize = true;
+            this.label29.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label29.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label29.ForeColor = System.Drawing.Color.White;
+            this.label29.Location = new System.Drawing.Point(281, 297);
+            this.label29.Name = "label29";
+            this.label29.Size = new System.Drawing.Size(133, 17);
+            this.label29.TabIndex = 92;
+            this.label29.Text = "GfxShrink with Squeez";
+            // 
+            // GFXClientEnable
+            // 
+            this.GFXClientEnable.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.GFXClientEnable.Location = new System.Drawing.Point(718, 291);
+            this.GFXClientEnable.Name = "GFXClientEnable";
+            this.GFXClientEnable.Size = new System.Drawing.Size(122, 25);
+            this.GFXClientEnable.TabIndex = 91;
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label30.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label30.ForeColor = System.Drawing.Color.White;
+            this.label30.Location = new System.Drawing.Point(588, 297);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(100, 17);
+            this.label30.TabIndex = 90;
+            this.label30.Text = "GfxClientEnable:";
+            // 
+            // Ipgfxclient
+            // 
+            this.Ipgfxclient.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.Ipgfxclient.Location = new System.Drawing.Point(720, 260);
+            this.Ipgfxclient.Name = "Ipgfxclient";
+            this.Ipgfxclient.Size = new System.Drawing.Size(122, 25);
+            this.Ipgfxclient.TabIndex = 89;
+            // 
+            // Portgfxclient
+            // 
+            this.Portgfxclient.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.Portgfxclient.Location = new System.Drawing.Point(721, 220);
+            this.Portgfxclient.Name = "Portgfxclient";
+            this.Portgfxclient.Size = new System.Drawing.Size(122, 25);
+            this.Portgfxclient.TabIndex = 88;
+            // 
+            // ClientIP
+            // 
+            this.ClientIP.AutoSize = true;
+            this.ClientIP.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ClientIP.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ClientIP.ForeColor = System.Drawing.Color.White;
+            this.ClientIP.Location = new System.Drawing.Point(590, 262);
+            this.ClientIP.Name = "ClientIP";
+            this.ClientIP.Size = new System.Drawing.Size(72, 17);
+            this.ClientIP.TabIndex = 87;
+            this.ClientIP.Text = "GfxClientIP:";
+            // 
+            // GfxClientPort
+            // 
+            this.GfxClientPort.AutoSize = true;
+            this.GfxClientPort.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.GfxClientPort.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.GfxClientPort.ForeColor = System.Drawing.Color.White;
+            this.GfxClientPort.Location = new System.Drawing.Point(590, 224);
+            this.GfxClientPort.Name = "GfxClientPort";
+            this.GfxClientPort.Size = new System.Drawing.Size(84, 17);
+            this.GfxClientPort.TabIndex = 86;
+            this.GfxClientPort.Text = "GfxClientPort:";
+            // 
+            // txtEventCheckingTime
+            // 
+            this.txtEventCheckingTime.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtEventCheckingTime.Location = new System.Drawing.Point(429, 255);
+            this.txtEventCheckingTime.Name = "txtEventCheckingTime";
+            this.txtEventCheckingTime.ReadOnly = true;
+            this.txtEventCheckingTime.Size = new System.Drawing.Size(122, 25);
+            this.txtEventCheckingTime.TabIndex = 79;
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label15.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.ForeColor = System.Drawing.Color.White;
+            this.label15.Location = new System.Drawing.Point(281, 262);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(129, 17);
+            this.label15.TabIndex = 78;
+            this.label15.Text = "Event Checking Time:";
+            // 
+            // tp_AsRun
+            // 
+            this.tp_AsRun.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
+            this.tp_AsRun.Controls.Add(this.CB_TimeMod);
+            this.tp_AsRun.Controls.Add(this.label22);
+            this.tp_AsRun.Controls.Add(this.cb_ManualAsRunEnable);
+            this.tp_AsRun.Controls.Add(this.label21);
+            this.tp_AsRun.Controls.Add(this.txtchannelnameMam);
+            this.tp_AsRun.Controls.Add(this.label18);
+            this.tp_AsRun.Controls.Add(this.btnBrowsFolder);
+            this.tp_AsRun.Controls.Add(this.txtfilename);
+            this.tp_AsRun.Controls.Add(this.label13);
+            this.tp_AsRun.Controls.Add(this.cbType);
+            this.tp_AsRun.Controls.Add(this.txtreconkey);
+            this.tp_AsRun.Controls.Add(this.label12);
+            this.tp_AsRun.Controls.Add(this.txtduration);
+            this.tp_AsRun.Controls.Add(this.label11);
+            this.tp_AsRun.Controls.Add(this.txtstatus);
+            this.tp_AsRun.Controls.Add(this.label10);
+            this.tp_AsRun.Controls.Add(this.txttemplatefilename);
+            this.tp_AsRun.Controls.Add(this.label9);
+            this.tp_AsRun.Controls.Add(this.txttemplatename);
+            this.tp_AsRun.Controls.Add(this.label8);
+            this.tp_AsRun.Controls.Add(this.txtdatetimecolumn);
+            this.tp_AsRun.Controls.Add(this.label7);
+            this.tp_AsRun.Controls.Add(this.txttablename);
+            this.tp_AsRun.Controls.Add(this.label6);
+            this.tp_AsRun.Controls.Add(this.label5);
+            this.tp_AsRun.Controls.Add(this.txtfolderpath);
+            this.tp_AsRun.Controls.Add(this.label4);
+            this.tp_AsRun.Controls.Add(this.cbEnableasrun);
+            this.tp_AsRun.Controls.Add(this.label3);
+            this.tp_AsRun.Location = new System.Drawing.Point(4, 22);
+            this.tp_AsRun.Name = "tp_AsRun";
+            this.tp_AsRun.Size = new System.Drawing.Size(993, 359);
+            this.tp_AsRun.TabIndex = 2;
+            this.tp_AsRun.Text = "ASRUN SETTING";
+            // 
+            // CB_TimeMod
+            // 
+            this.CB_TimeMod.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.CB_TimeMod.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.CB_TimeMod.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CB_TimeMod.FormattingEnabled = true;
+            this.CB_TimeMod.Items.AddRange(new object[] {
+            "SYSTEM-TIME",
+            "LTC"});
+            this.CB_TimeMod.Location = new System.Drawing.Point(599, 264);
+            this.CB_TimeMod.Name = "CB_TimeMod";
+            this.CB_TimeMod.Size = new System.Drawing.Size(162, 25);
+            this.CB_TimeMod.TabIndex = 99;
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label22.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label22.ForeColor = System.Drawing.Color.White;
+            this.label22.Location = new System.Drawing.Point(425, 267);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(88, 17);
+            this.label22.TabIndex = 98;
+            this.label22.Text = "Take Time Via";
+            // 
+            // cb_ManualAsRunEnable
+            // 
+            this.cb_ManualAsRunEnable.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cb_ManualAsRunEnable.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cb_ManualAsRunEnable.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cb_ManualAsRunEnable.FormattingEnabled = true;
+            this.cb_ManualAsRunEnable.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.cb_ManualAsRunEnable.Location = new System.Drawing.Point(599, 137);
+            this.cb_ManualAsRunEnable.Name = "cb_ManualAsRunEnable";
+            this.cb_ManualAsRunEnable.Size = new System.Drawing.Size(162, 25);
+            this.cb_ManualAsRunEnable.TabIndex = 97;
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label21.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label21.ForeColor = System.Drawing.Color.White;
+            this.label21.Location = new System.Drawing.Point(427, 137);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(127, 17);
+            this.label21.TabIndex = 96;
+            this.label21.Text = "Manual Asrun Enable";
+            // 
+            // txtchannelnameMam
+            // 
+            this.txtchannelnameMam.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtchannelnameMam.Location = new System.Drawing.Point(598, 106);
+            this.txtchannelnameMam.Name = "txtchannelnameMam";
+            this.txtchannelnameMam.Size = new System.Drawing.Size(163, 25);
+            this.txtchannelnameMam.TabIndex = 95;
+            this.txtchannelnameMam.TextChanged += new System.EventHandler(this.txtchannelnameMam_TextChanged);
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label18.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.ForeColor = System.Drawing.Color.White;
+            this.label18.Location = new System.Drawing.Point(426, 106);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(133, 17);
+            this.label18.TabIndex = 94;
+            this.label18.Text = "Channel Name (mam)";
+            // 
+            // btnBrowsFolder
+            // 
+            this.btnBrowsFolder.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnBrowsFolder.FlatAppearance.BorderSize = 0;
+            this.btnBrowsFolder.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBrowsFolder.ForeColor = System.Drawing.Color.White;
+            this.btnBrowsFolder.Location = new System.Drawing.Point(599, 44);
+            this.btnBrowsFolder.Name = "btnBrowsFolder";
+            this.btnBrowsFolder.Size = new System.Drawing.Size(43, 23);
+            this.btnBrowsFolder.TabIndex = 93;
+            this.btnBrowsFolder.Text = "...";
+            this.btnBrowsFolder.UseVisualStyleBackColor = false;
+            this.btnBrowsFolder.Click += new System.EventHandler(this.btnBrowsFolder_Click);
+            // 
+            // txtfilename
+            // 
+            this.txtfilename.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtfilename.Location = new System.Drawing.Point(223, 232);
+            this.txtfilename.Name = "txtfilename";
+            this.txtfilename.ReadOnly = true;
+            this.txtfilename.Size = new System.Drawing.Size(163, 25);
+            this.txtfilename.TabIndex = 78;
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label13.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.ForeColor = System.Drawing.Color.White;
+            this.label13.Location = new System.Drawing.Point(51, 235);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(108, 17);
+            this.label13.TabIndex = 91;
+            this.label13.Text = "FileName Column";
+            // 
+            // cbType
+            // 
+            this.cbType.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbType.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cbType.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbType.FormattingEnabled = true;
+            this.cbType.Items.AddRange(new object[] {
+            "FILE",
+            "DB",
+            "BOTH"});
+            this.cbType.Location = new System.Drawing.Point(223, 75);
+            this.cbType.Name = "cbType";
+            this.cbType.Size = new System.Drawing.Size(163, 25);
+            this.cbType.TabIndex = 73;
+            // 
+            // txtreconkey
+            // 
+            this.txtreconkey.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtreconkey.Location = new System.Drawing.Point(598, 232);
+            this.txtreconkey.Name = "txtreconkey";
+            this.txtreconkey.ReadOnly = true;
+            this.txtreconkey.Size = new System.Drawing.Size(163, 25);
+            this.txtreconkey.TabIndex = 91;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label12.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.ForeColor = System.Drawing.Color.White;
+            this.label12.Location = new System.Drawing.Point(426, 237);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(128, 17);
+            this.label12.TabIndex = 88;
+            this.label12.Text = "ReconcileKey Column";
+            // 
+            // txtduration
+            // 
+            this.txtduration.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtduration.Location = new System.Drawing.Point(598, 199);
+            this.txtduration.Name = "txtduration";
+            this.txtduration.ReadOnly = true;
+            this.txtduration.Size = new System.Drawing.Size(163, 25);
+            this.txtduration.TabIndex = 80;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label11.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.ForeColor = System.Drawing.Color.White;
+            this.label11.Location = new System.Drawing.Point(426, 204);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(103, 17);
+            this.label11.TabIndex = 86;
+            this.label11.Text = "Duration Column";
+            // 
+            // txtstatus
+            // 
+            this.txtstatus.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtstatus.Location = new System.Drawing.Point(598, 168);
+            this.txtstatus.Name = "txtstatus";
+            this.txtstatus.ReadOnly = true;
+            this.txtstatus.Size = new System.Drawing.Size(163, 25);
+            this.txtstatus.TabIndex = 79;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label10.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.Color.White;
+            this.label10.Location = new System.Drawing.Point(426, 171);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(89, 17);
+            this.label10.TabIndex = 84;
+            this.label10.Text = "Status Column";
+            // 
+            // txttemplatefilename
+            // 
+            this.txttemplatefilename.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txttemplatefilename.Location = new System.Drawing.Point(223, 199);
+            this.txttemplatefilename.Name = "txttemplatefilename";
+            this.txttemplatefilename.ReadOnly = true;
+            this.txttemplatefilename.Size = new System.Drawing.Size(163, 25);
+            this.txttemplatefilename.TabIndex = 77;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label9.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.ForeColor = System.Drawing.Color.White;
+            this.label9.Location = new System.Drawing.Point(51, 201);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(160, 17);
+            this.label9.TabIndex = 82;
+            this.label9.Text = "TemplateFileName Column";
+            // 
+            // txttemplatename
+            // 
+            this.txttemplatename.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txttemplatename.Location = new System.Drawing.Point(223, 168);
+            this.txttemplatename.Name = "txttemplatename";
+            this.txttemplatename.ReadOnly = true;
+            this.txttemplatename.Size = new System.Drawing.Size(163, 25);
+            this.txttemplatename.TabIndex = 76;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label8.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.ForeColor = System.Drawing.Color.White;
+            this.label8.Location = new System.Drawing.Point(51, 170);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(141, 17);
+            this.label8.TabIndex = 80;
+            this.label8.Text = "TemplateName Column";
+            // 
+            // txtdatetimecolumn
+            // 
+            this.txtdatetimecolumn.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtdatetimecolumn.Location = new System.Drawing.Point(223, 137);
+            this.txtdatetimecolumn.Name = "txtdatetimecolumn";
+            this.txtdatetimecolumn.ReadOnly = true;
+            this.txtdatetimecolumn.Size = new System.Drawing.Size(163, 25);
+            this.txtdatetimecolumn.TabIndex = 75;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label7.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.White;
+            this.label7.Location = new System.Drawing.Point(51, 142);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(114, 17);
+            this.label7.TabIndex = 78;
+            this.label7.Text = "DateTime Column ";
+            // 
+            // txttablename
+            // 
+            this.txttablename.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txttablename.Location = new System.Drawing.Point(223, 106);
+            this.txttablename.Name = "txttablename";
+            this.txttablename.Size = new System.Drawing.Size(163, 25);
+            this.txttablename.TabIndex = 74;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label6.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.Location = new System.Drawing.Point(51, 109);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(72, 17);
+            this.label6.TabIndex = 76;
+            this.label6.Text = "TableName";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label5.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.White;
+            this.label5.Location = new System.Drawing.Point(51, 44);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(71, 17);
+            this.label5.TabIndex = 74;
+            this.label5.Text = "Folder Path";
+            // 
+            // txtfolderpath
+            // 
+            this.txtfolderpath.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.txtfolderpath.Location = new System.Drawing.Point(223, 44);
+            this.txtfolderpath.Name = "txtfolderpath";
+            this.txtfolderpath.Size = new System.Drawing.Size(368, 25);
+            this.txtfolderpath.TabIndex = 72;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label4.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.Color.White;
+            this.label4.Location = new System.Drawing.Point(51, 75);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(34, 17);
+            this.label4.TabIndex = 72;
+            this.label4.Text = "Type";
+            // 
+            // cbEnableasrun
+            // 
+            this.cbEnableasrun.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbEnableasrun.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cbEnableasrun.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbEnableasrun.FormattingEnabled = true;
+            this.cbEnableasrun.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.cbEnableasrun.Location = new System.Drawing.Point(223, 13);
+            this.cbEnableasrun.Name = "cbEnableasrun";
+            this.cbEnableasrun.Size = new System.Drawing.Size(163, 25);
+            this.cbEnableasrun.TabIndex = 71;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label3.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.Location = new System.Drawing.Point(51, 13);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(81, 17);
+            this.label3.TabIndex = 70;
+            this.label3.Text = "Asrun Enable";
+            // 
+            // tp_subtitle
+            // 
+            this.tp_subtitle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
+            this.tp_subtitle.Controls.Add(this.EncodingCombo);
+            this.tp_subtitle.Controls.Add(this.label32);
+            this.tp_subtitle.Controls.Add(this.PriorityBox);
+            this.tp_subtitle.Controls.Add(this.label28);
+            this.tp_subtitle.Controls.Add(this.cmb_filetype);
+            this.tp_subtitle.Controls.Add(this.cmb_subtitlemode);
+            this.tp_subtitle.Controls.Add(this.lbl_subtitlemode);
+            this.tp_subtitle.Controls.Add(this.lbl_filetype);
+            this.tp_subtitle.Controls.Add(this.lbl_subtitletemplate);
+            this.tp_subtitle.Controls.Add(this.textbox_subtitletemplate);
+            this.tp_subtitle.Controls.Add(this.label19);
+            this.tp_subtitle.Controls.Add(this.textBox_subtitlesuffix);
+            this.tp_subtitle.Controls.Add(this.lbl_startoffset);
+            this.tp_subtitle.Controls.Add(this.textBox_startoffset);
+            this.tp_subtitle.Controls.Add(this.lbl_endofset);
+            this.tp_subtitle.Controls.Add(this.textBox_endoffset);
+            this.tp_subtitle.Controls.Add(this.lbl_enablesubtitle);
+            this.tp_subtitle.Controls.Add(this.cmb_enablesubtitle);
+            this.tp_subtitle.Controls.Add(this.lbl_subtitleport);
+            this.tp_subtitle.Controls.Add(this.textBox_subtitleport);
+            this.tp_subtitle.Location = new System.Drawing.Point(4, 22);
+            this.tp_subtitle.Name = "tp_subtitle";
+            this.tp_subtitle.Size = new System.Drawing.Size(993, 359);
+            this.tp_subtitle.TabIndex = 3;
+            this.tp_subtitle.Text = "SUBTITLE SETTING";
+            // 
+            // EncodingCombo
+            // 
+            this.EncodingCombo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.EncodingCombo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.EncodingCombo.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.EncodingCombo.FormattingEnabled = true;
+            this.EncodingCombo.Items.AddRange(new object[] {
+            "TRUE",
+            "FALSE"});
+            this.EncodingCombo.Location = new System.Drawing.Point(177, 331);
+            this.EncodingCombo.Name = "EncodingCombo";
+            this.EncodingCombo.Size = new System.Drawing.Size(121, 25);
+            this.EncodingCombo.TabIndex = 95;
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label32.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label32.ForeColor = System.Drawing.Color.White;
+            this.label32.Location = new System.Drawing.Point(39, 335);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(102, 17);
+            this.label32.TabIndex = 98;
+            this.label32.Text = "ChangeEncoding";
+            // 
+            // PriorityBox
+            // 
+            this.PriorityBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.PriorityBox.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.PriorityBox.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.PriorityBox.FormattingEnabled = true;
+            this.PriorityBox.Items.AddRange(new object[] {
+            "SRT",
+            "CIP"});
+            this.PriorityBox.Location = new System.Drawing.Point(177, 298);
+            this.PriorityBox.Name = "PriorityBox";
+            this.PriorityBox.Size = new System.Drawing.Size(121, 25);
+            this.PriorityBox.TabIndex = 97;
+            // 
+            // label28
+            // 
+            this.label28.AutoSize = true;
+            this.label28.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label28.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label28.ForeColor = System.Drawing.Color.White;
+            this.label28.Location = new System.Drawing.Point(39, 303);
+            this.label28.Name = "label28";
+            this.label28.Size = new System.Drawing.Size(134, 17);
+            this.label28.TabIndex = 96;
+            this.label28.Text = "Priority(In BOTH Case):";
+            // 
+            // cmb_filetype
+            // 
+            this.cmb_filetype.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmb_filetype.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cmb_filetype.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmb_filetype.FormattingEnabled = true;
+            this.cmb_filetype.Items.AddRange(new object[] {
+            "CIP",
+            "SRT",
+            "BOTH"});
+            this.cmb_filetype.Location = new System.Drawing.Point(177, 86);
+            this.cmb_filetype.Name = "cmb_filetype";
+            this.cmb_filetype.Size = new System.Drawing.Size(121, 25);
+            this.cmb_filetype.TabIndex = 95;
+            // 
+            // cmb_subtitlemode
+            // 
+            this.cmb_subtitlemode.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmb_subtitlemode.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cmb_subtitlemode.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmb_subtitlemode.FormattingEnabled = true;
+            this.cmb_subtitlemode.Items.AddRange(new object[] {
+            "MANUAL",
+            "AUTOMATION"});
+            this.cmb_subtitlemode.Location = new System.Drawing.Point(177, 50);
+            this.cmb_subtitlemode.Name = "cmb_subtitlemode";
+            this.cmb_subtitlemode.Size = new System.Drawing.Size(121, 25);
+            this.cmb_subtitlemode.TabIndex = 94;
+            // 
+            // lbl_subtitlemode
+            // 
+            this.lbl_subtitlemode.AutoSize = true;
+            this.lbl_subtitlemode.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lbl_subtitlemode.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_subtitlemode.ForeColor = System.Drawing.Color.White;
+            this.lbl_subtitlemode.Location = new System.Drawing.Point(39, 50);
+            this.lbl_subtitlemode.Name = "lbl_subtitlemode";
+            this.lbl_subtitlemode.Size = new System.Drawing.Size(93, 17);
+            this.lbl_subtitlemode.TabIndex = 91;
+            this.lbl_subtitlemode.Text = "Subtitle Mode :";
+            // 
+            // lbl_filetype
+            // 
+            this.lbl_filetype.AutoSize = true;
+            this.lbl_filetype.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lbl_filetype.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_filetype.ForeColor = System.Drawing.Color.White;
+            this.lbl_filetype.Location = new System.Drawing.Point(39, 86);
+            this.lbl_filetype.Name = "lbl_filetype";
+            this.lbl_filetype.Size = new System.Drawing.Size(64, 17);
+            this.lbl_filetype.TabIndex = 90;
+            this.lbl_filetype.Text = "File Type :";
+            // 
+            // lbl_subtitletemplate
+            // 
+            this.lbl_subtitletemplate.AutoSize = true;
+            this.lbl_subtitletemplate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lbl_subtitletemplate.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_subtitletemplate.ForeColor = System.Drawing.Color.White;
+            this.lbl_subtitletemplate.Location = new System.Drawing.Point(39, 230);
+            this.lbl_subtitletemplate.Name = "lbl_subtitletemplate";
+            this.lbl_subtitletemplate.Size = new System.Drawing.Size(113, 17);
+            this.lbl_subtitletemplate.TabIndex = 89;
+            this.lbl_subtitletemplate.Text = "Subtitle Template :";
+            // 
+            // textbox_subtitletemplate
+            // 
+            this.textbox_subtitletemplate.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.textbox_subtitletemplate.Location = new System.Drawing.Point(177, 230);
+            this.textbox_subtitletemplate.Name = "textbox_subtitletemplate";
+            this.textbox_subtitletemplate.Size = new System.Drawing.Size(122, 25);
+            this.textbox_subtitletemplate.TabIndex = 88;
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label19.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label19.ForeColor = System.Drawing.Color.White;
+            this.label19.Location = new System.Drawing.Point(39, 266);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(92, 17);
+            this.label19.TabIndex = 87;
+            this.label19.Text = "Subtitle Suffix :";
+            // 
+            // textBox_subtitlesuffix
+            // 
+            this.textBox_subtitlesuffix.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.textBox_subtitlesuffix.Location = new System.Drawing.Point(177, 266);
+            this.textBox_subtitlesuffix.Name = "textBox_subtitlesuffix";
+            this.textBox_subtitlesuffix.Size = new System.Drawing.Size(122, 25);
+            this.textBox_subtitlesuffix.TabIndex = 86;
+            // 
+            // lbl_startoffset
+            // 
+            this.lbl_startoffset.AutoSize = true;
+            this.lbl_startoffset.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lbl_startoffset.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_startoffset.ForeColor = System.Drawing.Color.White;
+            this.lbl_startoffset.Location = new System.Drawing.Point(39, 158);
+            this.lbl_startoffset.Name = "lbl_startoffset";
+            this.lbl_startoffset.Size = new System.Drawing.Size(131, 17);
+            this.lbl_startoffset.TabIndex = 85;
+            this.lbl_startoffset.Text = "Start Offset (Frames) :";
+            // 
+            // textBox_startoffset
+            // 
+            this.textBox_startoffset.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.textBox_startoffset.Location = new System.Drawing.Point(177, 158);
+            this.textBox_startoffset.Name = "textBox_startoffset";
+            this.textBox_startoffset.Size = new System.Drawing.Size(122, 25);
+            this.textBox_startoffset.TabIndex = 84;
+            // 
+            // lbl_endofset
+            // 
+            this.lbl_endofset.AutoSize = true;
+            this.lbl_endofset.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lbl_endofset.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_endofset.ForeColor = System.Drawing.Color.White;
+            this.lbl_endofset.Location = new System.Drawing.Point(39, 194);
+            this.lbl_endofset.Name = "lbl_endofset";
+            this.lbl_endofset.Size = new System.Drawing.Size(130, 17);
+            this.lbl_endofset.TabIndex = 83;
+            this.lbl_endofset.Text = "End Offset  (Frames) :";
+            // 
+            // textBox_endoffset
+            // 
+            this.textBox_endoffset.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.textBox_endoffset.Location = new System.Drawing.Point(177, 194);
+            this.textBox_endoffset.Name = "textBox_endoffset";
+            this.textBox_endoffset.Size = new System.Drawing.Size(122, 25);
+            this.textBox_endoffset.TabIndex = 82;
+            // 
+            // lbl_enablesubtitle
+            // 
+            this.lbl_enablesubtitle.AutoSize = true;
+            this.lbl_enablesubtitle.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lbl_enablesubtitle.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_enablesubtitle.ForeColor = System.Drawing.Color.White;
+            this.lbl_enablesubtitle.Location = new System.Drawing.Point(39, 14);
+            this.lbl_enablesubtitle.Name = "lbl_enablesubtitle";
+            this.lbl_enablesubtitle.Size = new System.Drawing.Size(99, 17);
+            this.lbl_enablesubtitle.TabIndex = 81;
+            this.lbl_enablesubtitle.Text = "Enable Subtitle :";
+            // 
+            // cmb_enablesubtitle
+            // 
+            this.cmb_enablesubtitle.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmb_enablesubtitle.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cmb_enablesubtitle.Font = new System.Drawing.Font("Segoe UI Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmb_enablesubtitle.FormattingEnabled = true;
+            this.cmb_enablesubtitle.Items.AddRange(new object[] {
+            "FALSE",
+            "TRUE"});
+            this.cmb_enablesubtitle.Location = new System.Drawing.Point(177, 14);
+            this.cmb_enablesubtitle.Name = "cmb_enablesubtitle";
+            this.cmb_enablesubtitle.Size = new System.Drawing.Size(121, 25);
+            this.cmb_enablesubtitle.TabIndex = 80;
+            // 
+            // lbl_subtitleport
+            // 
+            this.lbl_subtitleport.AutoSize = true;
+            this.lbl_subtitleport.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lbl_subtitleport.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_subtitleport.ForeColor = System.Drawing.Color.White;
+            this.lbl_subtitleport.Location = new System.Drawing.Point(39, 122);
+            this.lbl_subtitleport.Name = "lbl_subtitleport";
+            this.lbl_subtitleport.Size = new System.Drawing.Size(83, 17);
+            this.lbl_subtitleport.TabIndex = 79;
+            this.lbl_subtitleport.Text = "Subtitle Port :";
+            // 
+            // textBox_subtitleport
+            // 
+            this.textBox_subtitleport.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.textBox_subtitleport.Location = new System.Drawing.Point(177, 122);
+            this.textBox_subtitleport.Name = "textBox_subtitleport";
+            this.textBox_subtitleport.Size = new System.Drawing.Size(122, 25);
+            this.textBox_subtitleport.TabIndex = 78;
+            // 
+            // tp_NetStrm
+            // 
+            this.tp_NetStrm.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
+            this.tp_NetStrm.Controls.Add(this.cmbStreamEnble);
+            this.tp_NetStrm.Controls.Add(this.VBitrate);
+            this.tp_NetStrm.Controls.Add(this.label26);
+            this.tp_NetStrm.Controls.Add(this.TxtConfig);
+            this.tp_NetStrm.Controls.Add(this.TxtURL);
+            this.tp_NetStrm.Controls.Add(this.label27);
+            this.tp_NetStrm.Controls.Add(this.cmbstrmtyp);
+            this.tp_NetStrm.Controls.Add(this.label24);
+            this.tp_NetStrm.Controls.Add(this.label23);
+            this.tp_NetStrm.Controls.Add(this.label25);
+            this.tp_NetStrm.Location = new System.Drawing.Point(4, 22);
+            this.tp_NetStrm.Margin = new System.Windows.Forms.Padding(2);
+            this.tp_NetStrm.Name = "tp_NetStrm";
+            this.tp_NetStrm.Size = new System.Drawing.Size(993, 359);
+            this.tp_NetStrm.TabIndex = 4;
+            this.tp_NetStrm.Text = "NETWORKSTREAM";
+            // 
+            // cmbStreamEnble
+            // 
+            this.cmbStreamEnble.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbStreamEnble.FormattingEnabled = true;
+            this.cmbStreamEnble.Items.AddRange(new object[] {
+            "TRUE",
+            "FALSE"});
+            this.cmbStreamEnble.Location = new System.Drawing.Point(214, 21);
+            this.cmbStreamEnble.Name = "cmbStreamEnble";
+            this.cmbStreamEnble.Size = new System.Drawing.Size(121, 21);
+            this.cmbStreamEnble.TabIndex = 18;
+            // 
+            // VBitrate
+            // 
+            this.VBitrate.Location = new System.Drawing.Point(214, 264);
+            this.VBitrate.Name = "VBitrate";
+            this.VBitrate.Size = new System.Drawing.Size(121, 20);
+            this.VBitrate.TabIndex = 17;
+            // 
+            // label26
+            // 
+            this.label26.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F);
+            this.label26.ForeColor = System.Drawing.Color.White;
+            this.label26.Location = new System.Drawing.Point(24, 266);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(116, 23);
+            this.label26.TabIndex = 16;
+            this.label26.Text = "VideoBitrate";
+            // 
+            // TxtConfig
+            // 
+            this.TxtConfig.Location = new System.Drawing.Point(214, 202);
+            this.TxtConfig.Name = "TxtConfig";
+            this.TxtConfig.Size = new System.Drawing.Size(121, 20);
+            this.TxtConfig.TabIndex = 15;
+            // 
+            // TxtURL
+            // 
+            this.TxtURL.Location = new System.Drawing.Point(214, 139);
+            this.TxtURL.Name = "TxtURL";
+            this.TxtURL.Size = new System.Drawing.Size(121, 20);
+            this.TxtURL.TabIndex = 14;
+            // 
+            // label27
+            // 
+            this.label27.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F);
+            this.label27.ForeColor = System.Drawing.Color.White;
+            this.label27.Location = new System.Drawing.Point(24, 205);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(116, 23);
+            this.label27.TabIndex = 12;
+            this.label27.Text = "Video Codec ";
+            // 
+            // cmbstrmtyp
+            // 
+            this.cmbstrmtyp.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbstrmtyp.FormattingEnabled = true;
+            this.cmbstrmtyp.Items.AddRange(new object[] {
+            "RTMP",
+            "UDP",
+            "SRT"});
+            this.cmbstrmtyp.Location = new System.Drawing.Point(214, 76);
+            this.cmbstrmtyp.Name = "cmbstrmtyp";
+            this.cmbstrmtyp.Size = new System.Drawing.Size(121, 21);
+            this.cmbstrmtyp.TabIndex = 13;
+            // 
+            // label24
+            // 
+            this.label24.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F);
+            this.label24.ForeColor = System.Drawing.Color.White;
+            this.label24.Location = new System.Drawing.Point(24, 140);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(116, 23);
+            this.label24.TabIndex = 11;
+            this.label24.Text = "Network URL";
+            // 
+            // label23
+            // 
+            this.label23.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F);
+            this.label23.ForeColor = System.Drawing.Color.White;
+            this.label23.Location = new System.Drawing.Point(26, 76);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(116, 31);
+            this.label23.TabIndex = 10;
+            this.label23.Text = "Stream Type";
+            // 
+            // label25
+            // 
+            this.label25.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label25.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F);
+            this.label25.ForeColor = System.Drawing.Color.White;
+            this.label25.Location = new System.Drawing.Point(28, 20);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(116, 31);
+            this.label25.TabIndex = 1;
+            this.label25.Text = "Stream Out  ";
+            // 
+            // HEADPANNEL
+            // 
+            this.HEADPANNEL.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.HEADPANNEL.Controls.Add(this.BtnClose);
+            this.HEADPANNEL.Controls.Add(this.tabControl1);
+            this.HEADPANNEL.Controls.Add(this.Savebutton);
+            this.HEADPANNEL.Controls.Add(this.label14);
+            this.HEADPANNEL.Controls.Add(this.pictureBox1);
+            this.HEADPANNEL.Location = new System.Drawing.Point(1, 1);
+            this.HEADPANNEL.Name = "HEADPANNEL";
+            this.HEADPANNEL.Size = new System.Drawing.Size(1019, 457);
+            this.HEADPANNEL.TabIndex = 84;
+            this.HEADPANNEL.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pnlHead_MouseMove);
+            // 
+            // BtnClose
+            // 
+            this.BtnClose.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BtnClose.FlatAppearance.BorderSize = 0;
+            this.BtnClose.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Red;
+            this.BtnClose.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Salmon;
+            this.BtnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BtnClose.Font = new System.Drawing.Font("Segoe UI Symbol", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnClose.ForeColor = System.Drawing.Color.White;
+            this.BtnClose.Location = new System.Drawing.Point(974, 1);
+            this.BtnClose.Margin = new System.Windows.Forms.Padding(0);
+            this.BtnClose.Name = "BtnClose";
+            this.BtnClose.Size = new System.Drawing.Size(29, 28);
+            this.BtnClose.TabIndex = 97;
+            this.BtnClose.Text = "X";
+            this.BtnClose.TextAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.BtnClose.UseVisualStyleBackColor = true;
+            this.BtnClose.Click += new System.EventHandler(this.BtClose_Click);
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
+            this.label14.ForeColor = System.Drawing.Color.White;
+            this.label14.Location = new System.Drawing.Point(6, 10);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(173, 21);
+            this.label14.TabIndex = 81;
+            this.label14.Text = "Channel Configuration";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.White;
+            this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox1.Location = new System.Drawing.Point(0, 34);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(1018, 1);
+            this.pictureBox1.TabIndex = 82;
+            this.pictureBox1.TabStop = false;
+            // 
+            // Txtdelaytimeincmnd
+            // 
+            this.Txtdelaytimeincmnd.Font = new System.Drawing.Font("Segoe UI Light", 9.75F);
+            this.Txtdelaytimeincmnd.Location = new System.Drawing.Point(798, 82);
+            this.Txtdelaytimeincmnd.Name = "Txtdelaytimeincmnd";
+            this.Txtdelaytimeincmnd.Size = new System.Drawing.Size(121, 25);
+            this.Txtdelaytimeincmnd.TabIndex = 88;
+            // 
+            // lbldelytime
+            // 
+            this.lbldelytime.AutoSize = true;
+            this.lbldelytime.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lbldelytime.Font = new System.Drawing.Font("Segoe UI Semilight", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbldelytime.ForeColor = System.Drawing.Color.White;
+            this.lbldelytime.Location = new System.Drawing.Point(684, 86);
+            this.lbldelytime.Name = "lbldelytime";
+            this.lbldelytime.Size = new System.Drawing.Size(65, 17);
+            this.lbldelytime.TabIndex = 89;
+            this.lbldelytime.Text = "Delaytime";
+            // 
+            // ChannelConfig
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoValidate = System.Windows.Forms.AutoValidate.EnablePreventFocusChange;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
+            this.ClientSize = new System.Drawing.Size(1021, 457);
+            this.Controls.Add(this.HEADPANNEL);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "ChannelConfig";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "ChannelConfig";
+            this.Load += new System.EventHandler(this.ChannelConfig_Load);
+            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pnlHead_MouseMove);
+            this.tabControl1.ResumeLayout(false);
+            this.tp_channelsetting.ResumeLayout(false);
+            this.tp_channelsetting.PerformLayout();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.tp_genralsetting.ResumeLayout(false);
+            this.tp_genralsetting.PerformLayout();
+            this.tp_AsRun.ResumeLayout(false);
+            this.tp_AsRun.PerformLayout();
+            this.tp_subtitle.ResumeLayout(false);
+            this.tp_subtitle.PerformLayout();
+            this.tp_NetStrm.ResumeLayout(false);
+            this.tp_NetStrm.PerformLayout();
+            this.HEADPANNEL.ResumeLayout(false);
+            this.HEADPANNEL.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+        public System.Windows.Forms.TextBox templatepathvaluetxtbox;
+        public System.Windows.Forms.Label ChannelNamelbl;
+        public System.Windows.Forms.Label ChannelTypelbl;
+        public System.Windows.Forms.Label DbTypelbl;
+        public System.Windows.Forms.Label DbIPAddresslbl;
+        public System.Windows.Forms.Label DbPortlbl;
+        public System.Windows.Forms.Label DbUsernamelbl;
+        public System.Windows.Forms.Label DbPasswordlbl;
+        public System.Windows.Forms.Label DbNamelbl;
+        public System.Windows.Forms.Label ReceivingPortlbl;
+        public System.Windows.Forms.Label LTCPortlbl;
+        public System.Windows.Forms.Label ReconcileKeyChecklbl;
+        public System.Windows.Forms.Label OverlappingChecklbl;
+        public System.Windows.Forms.Label SubtitleChecklbl;
+        public System.Windows.Forms.Label PMSPacketOnlbl;
+        public System.Windows.Forms.Label CueOffSetlbl;
+        public System.Windows.Forms.Label PromoPrefixlbl;
+        public System.Windows.Forms.Label ProgramPrefixlbl;
+        public System.Windows.Forms.Label CommercialPrefixlbl;
+        public System.Windows.Forms.Label TemplatePathlbl;
+        public System.Windows.Forms.Label ContentPathlbl;
+        public System.Windows.Forms.Label SubtitlePathlbl;
+        public System.Windows.Forms.Label ChannelnameValuelbl;
+        public System.Windows.Forms.RadioButton sdradiobutton;
+        public System.Windows.Forms.RadioButton hdradiobutton;
+        public System.Windows.Forms.TextBox dbnamevaluetxtbox;
+        public System.Windows.Forms.TextBox dbipadvaluetxtbox;
+        public System.Windows.Forms.TextBox dbuservaluetxtbox;
+        public System.Windows.Forms.TextBox dbpassvaluetxtbox;
+        public System.Windows.Forms.TextBox dbportvaluetxtbox;
+        public System.Windows.Forms.TextBox subtitlepathvaluetxtbox;
+        public System.Windows.Forms.TextBox contentpathvaluetxtbox;
+        public System.Windows.Forms.ComboBox reconcilekeyvaluecmbbox;
+        public System.Windows.Forms.ComboBox overlappingvaluecmbbox;
+        public System.Windows.Forms.ComboBox pmspacketvaluecmbbox;
+        public System.Windows.Forms.ComboBox subtitlevaluecmbbox;
+        public System.Windows.Forms.TextBox recportvaluetxtbox;
+        public System.Windows.Forms.TextBox ltcportvaluetxtbox;
+        public System.Windows.Forms.TextBox CueOffSettxtbox;
+        public System.Windows.Forms.TextBox commprevaluetxtbox;
+        public System.Windows.Forms.TextBox progprevaluetxtbox;
+        public System.Windows.Forms.TextBox promoprevaluetxtbox;
+        public System.Windows.Forms.Button Savebutton;
+        private System.Windows.Forms.Button BTN_TEMPPATH_BROWSE;
+        private System.Windows.Forms.Button BTN_SUBPATH_BROWSE;
+        private System.Windows.Forms.Button BTN_CONTENTPATH_BROWSE;
+        public System.Windows.Forms.Label ndioutputnamelbl;
+        public System.Windows.Forms.TextBox ndioutputnametxtbox;
+        private System.Windows.Forms.CheckBox autoupdatetemplatechkbox;
+        public System.Windows.Forms.Label templaterefreshinterval_LBL;
+        public System.Windows.Forms.TextBox templaterefreshintervaltxtbox;
+        private System.Windows.Forms.Label label1;
+        public System.Windows.Forms.Label lblenabledb;
+        public System.Windows.Forms.Label lblagentmode;
+        public System.Windows.Forms.ComboBox cmbagentmode;
+        public System.Windows.Forms.ComboBox cmbpreviewwindow;
+        public System.Windows.Forms.Label lblpreviewwindow;
+        public System.Windows.Forms.Label lblkeyingmode;
+        public System.Windows.Forms.ComboBox cmbkeyingmode;
+        public System.Windows.Forms.Label lblkeyerport;
+        public System.Windows.Forms.TextBox txtkeyerport;
+        public System.Windows.Forms.ComboBox cmbscteenable;
+        public System.Windows.Forms.Label lblscteenable;
+        public System.Windows.Forms.TextBox txtsctetemplatename;
+        public System.Windows.Forms.Label lblsctetemplatename;
+        public System.Windows.Forms.Label lblscteip;
+        public System.Windows.Forms.TextBox txtscteip;
+        public System.Windows.Forms.TextBox txtscteport;
+        public System.Windows.Forms.Label lblscteport;
+        public System.Windows.Forms.TextBox txtsctepreroll;
+        public System.Windows.Forms.Label lblsctepreroll;
+        public System.Windows.Forms.ComboBox cmbenabledb;
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tp_channelsetting;
+        private System.Windows.Forms.TabPage tp_genralsetting;
+        private System.Windows.Forms.TabPage tp_AsRun;
+        public System.Windows.Forms.Label label2;
+        public System.Windows.Forms.TextBox txtreconkey;
+        public System.Windows.Forms.Label label12;
+        public System.Windows.Forms.TextBox txtduration;
+        public System.Windows.Forms.Label label11;
+        public System.Windows.Forms.TextBox txtstatus;
+        public System.Windows.Forms.Label label10;
+        public System.Windows.Forms.TextBox txttemplatefilename;
+        public System.Windows.Forms.Label label9;
+        public System.Windows.Forms.TextBox txttemplatename;
+        public System.Windows.Forms.Label label8;
+        public System.Windows.Forms.TextBox txtdatetimecolumn;
+        public System.Windows.Forms.Label label7;
+        public System.Windows.Forms.TextBox txttablename;
+        public System.Windows.Forms.Label label6;
+        public System.Windows.Forms.Label label5;
+        public System.Windows.Forms.TextBox txtfolderpath;
+        public System.Windows.Forms.Label label4;
+        public System.Windows.Forms.ComboBox cbEnableasrun;
+        public System.Windows.Forms.Label label3;
+        public System.Windows.Forms.ComboBox cbType;
+        public System.Windows.Forms.TextBox txtfilename;
+        public System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Button btnBrowsFolder;
+        private System.Windows.Forms.Panel HEADPANNEL;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button BtnClose;
+        public System.Windows.Forms.TextBox txtEventCheckingTime;
+        public System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Button btnBrowseSeconPath;
+        public System.Windows.Forms.TextBox txtSecondaryPath;
+        public System.Windows.Forms.Label label16;
+        public System.Windows.Forms.ComboBox cb_keyerType;
+        public System.Windows.Forms.Label label17;
+        public System.Windows.Forms.TextBox txtchannelnameMam;
+        public System.Windows.Forms.Label label18;
+        private System.Windows.Forms.TabPage tp_subtitle;
+        public System.Windows.Forms.Label lbl_subtitlemode;
+        public System.Windows.Forms.Label lbl_filetype;
+        public System.Windows.Forms.Label lbl_subtitletemplate;
+        public System.Windows.Forms.TextBox textbox_subtitletemplate;
+        public System.Windows.Forms.Label label19;
+        public System.Windows.Forms.TextBox textBox_subtitlesuffix;
+        public System.Windows.Forms.Label lbl_startoffset;
+        public System.Windows.Forms.TextBox textBox_startoffset;
+        public System.Windows.Forms.Label lbl_endofset;
+        public System.Windows.Forms.TextBox textBox_endoffset;
+        public System.Windows.Forms.Label lbl_enablesubtitle;
+        public System.Windows.Forms.ComboBox cmb_enablesubtitle;
+        public System.Windows.Forms.Label lbl_subtitleport;
+        public System.Windows.Forms.TextBox textBox_subtitleport;
+        public System.Windows.Forms.ComboBox cmb_filetype;
+        public System.Windows.Forms.ComboBox cmb_subtitlemode;
+        public System.Windows.Forms.ComboBox cmb_keyerheartbeat;
+        public System.Windows.Forms.Label label20;
+        public System.Windows.Forms.ComboBox cb_ManualAsRunEnable;
+        public System.Windows.Forms.Label label21;
+        public System.Windows.Forms.ComboBox CB_TimeMod;
+        public System.Windows.Forms.Label label22;
+        private System.Windows.Forms.TabPage tp_NetStrm;
+        private System.Windows.Forms.ComboBox cmbStreamEnble;
+        private System.Windows.Forms.TextBox VBitrate;
+        private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.TextBox TxtConfig;
+        private System.Windows.Forms.TextBox TxtURL;
+        private System.Windows.Forms.Label label27;
+        private System.Windows.Forms.ComboBox cmbstrmtyp;
+        private System.Windows.Forms.Label label24;
+        private System.Windows.Forms.Label label23;
+        private System.Windows.Forms.Label label25;
+        public System.Windows.Forms.TextBox GFXClientEnable;
+        public System.Windows.Forms.Label label30;
+        public System.Windows.Forms.TextBox Ipgfxclient;
+        public System.Windows.Forms.TextBox Portgfxclient;
+        public System.Windows.Forms.Label ClientIP;
+        public System.Windows.Forms.Label GfxClientPort;
+        public System.Windows.Forms.Label label28;
+        public System.Windows.Forms.ComboBox PriorityBox;
+        public System.Windows.Forms.ComboBox CmbGfxSqueez;
+        public System.Windows.Forms.Label label29;
+        private System.Windows.Forms.CheckBox DelayIncommand;
+        public System.Windows.Forms.Label lbladddelaycheck;
+        public System.Windows.Forms.ComboBox dbTypeValueCmBx;
+        public System.Windows.Forms.ComboBox EncodingCombo;
+        public System.Windows.Forms.Label label32;
+        public System.Windows.Forms.Label label33;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.RadioButton ntscrad;
+        private System.Windows.Forms.RadioButton palrad;
+        public System.Windows.Forms.Label label34;
+        private System.Windows.Forms.CheckBox onlyForAsrunChbx;
+        public System.Windows.Forms.Label label35;
+        private System.Windows.Forms.CheckBox onlyForMulticastChbx;
+        public System.Windows.Forms.TextBox MulticastIpTxt;
+        private System.Windows.Forms.Button BrowseCnfFilePathBtn;
+        public System.Windows.Forms.TextBox CnfFilePathTxt;
+        public System.Windows.Forms.Label label36;
+        public System.Windows.Forms.TextBox Txtdelaytimeincmnd;
+        public System.Windows.Forms.Label lbldelytime;
+        //    public System.Windows.Forms.Label labelonlyasrun;
+        //  private System.Windows.Forms.CheckBox onlyForAsrunChbx;
+    }
+}

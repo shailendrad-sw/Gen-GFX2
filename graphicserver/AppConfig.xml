@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ApplicationMode>
+    <ExternalAgentMode>TRUE</ExternalAgentMode>
+    <PreviewWindow>TRUE</PreviewWindow>
+  </ApplicationMode>
+  <ConfigData>
+    <SrNo>1</SrNo>
+    <ChannelName>PMSLDEMO</ChannelName>
+    <ChannelType>HD</ChannelType>
+    <EnableDb>FALSE</EnableDb>
+    <DbType>MYSQL</DbType>
+    <DbIPAddress>192.168.15.72</DbIPAddress>
+    <DbPort>3306</DbPort>
+    <DbUsername>usercloud</DbUsername>
+    <DbPassword>cloud10.0</DbPassword>
+    <DbName>mediaxdb</DbName>
+    <GraphicsTable />
+    <ReceivingPort>11006</ReceivingPort>
+    <LTCPort>8888</LTCPort>
+    <CheckEventInterval>10</CheckEventInterval>
+    <KeyingMode>FALSE</KeyingMode>
+    <KeyerPort>53000</KeyerPort>
+    <KeyerType>disable</KeyerType>
+    <KeyerHeartBeat>FALSE</KeyerHeartBeat>
+    <Protocol>UDP</Protocol>
+    <HttpPort>1234</HttpPort>
+    <ReconcileKeyCheck>FALSE</ReconcileKeyCheck>
+    <OverlappingCheck>FALSE</OverlappingCheck>
+    <SubtitleCheck>FALSE</SubtitleCheck>
+    <PMSPacketOn>FALSE</PMSPacketOn>
+    <NdiOutputName>MBIV GRAPHICS SERVER OUTPUT</NdiOutputName>
+    <AutoUpdateTemplate>False</AutoUpdateTemplate>
+    <AutoCloseAston>TRUE</AutoCloseAston>
+    <TemplateRefreshInterval>60000</TemplateRefreshInterval>
+    <CueOffSet>75</CueOffSet>
+    <PromoPrefix />
+    <ProgramPrefix />
+    <CommercialPrefix />
+    <TemplatePath>D:\RUNNINGCHANNELS\GFX\TEMPLATE</TemplatePath>
+    <ContentPath>D:\RUNNINGCHANNELS\GFX\ELEMENT</ContentPath>
+    <SubtitlePath>E:\GFXSERVER\2.5 Dll_20.21.10.2\graphicserver\bin\x64\Debug\Channels\PMSLDEMO\Subtitle</SubtitlePath>
+    <SecondaryContentPath>D:\RUNNINGCHANNELS\GFX\ELEMENT</SecondaryContentPath>
+    <GfxSqueeze>TRUE</GfxSqueeze>
+    <AddDelayInCommand>True</AddDelayInCommand>
+  </ConfigData>
+  <ScteSetting>
+    <ScteEnable>FALSE</ScteEnable>
+    <ScteTemplateName>SCTEON</ScteTemplateName>
+    <ScteIP>192.168.15.23</ScteIP>
+    <SctePort>4444</SctePort>
+    <SctePreRoll>30</SctePreRoll>
+  </ScteSetting>
+  <ASRun>
+    <ASRunEnable>FALSE</ASRunEnable>
+    <AsRunType>BOTH</AsRunType>
+    <AsRunFolderPath>D:\RUNNINGCHANNELS\ASRUN\DEMO</AsRunFolderPath>
+    <AsRunTableName>tbl_asrun</AsRunTableName>
+    <AsRunDateTimeColumn>AsRunDateTime </AsRunDateTimeColumn>
+    <AsRunTemplateNameColumn>AsRunTemplateName</AsRunTemplateNameColumn>
+    <AsRunFilenameColumn>AsRunFilename</AsRunFilenameColumn>
+    <AsRunTemplateFileNameColumn>AsRunTemplateFileName</AsRunTemplateFileNameColumn>
+    <AsRunStatusColumn>AsRunStatus</AsRunStatusColumn>
+    <AsRunDurationColumn>AsRunDuration</AsRunDurationColumn>
+    <AsRunReconcileKeyColumn>AsRunReconcileKey</AsRunReconcileKeyColumn>
+    <AsRunChannelNameMam>XYZ</AsRunChannelNameMam>
+    <AsRunManualEnable>TRUE</AsRunManualEnable>
+    <AsRunTakeTime>LTC</AsRunTakeTime>
+  </ASRun>
+  <SubtitleSetting>
+    <SubtitleEnable>FALSE</SubtitleEnable>
+    <SubtitleMode>AUTOMATION</SubtitleMode>
+    <SubtitleFileType>SRT</SubtitleFileType>
+    <SubtitlePort>5100</SubtitlePort>
+    <SubtitleStartOffset>0</SubtitleStartOffset>
+    <SubtitleEndOffset>0</SubtitleEndOffset>
+    <SubtitleSuffix />
+    <SubtitleTemplate>Subtitle</SubtitleTemplate>
+    <Priority_BOTH_case>SRT</Priority_BOTH_case>
+  </SubtitleSetting>
+  <NetworkStream>
+    <StreamEnable>FALSE</StreamEnable>
+    <StreamType>SRT</StreamType>
+    <StreamURL>srt://192.168.27.154:12000</StreamURL>
+    <StreamConfig>h264</StreamConfig>
+    <VideoBitrate>5M</VideoBitrate>
+  </NetworkStream>
+  <GFXClient>
+    <GFXClientEnable>FALSE</GFXClientEnable>
+    <GFXClientPort>8585</GFXClientPort>
+    <GFXClientIP>192.168.15.172</GFXClientIP>
+  </GFXClient>
+  <AudioSetting>
+    <AudioSettingEnable>FALSE</AudioSettingEnable>
+    <AudioChannel>2</AudioChannel>
+    <SamplePerSecond>48000</SamplePerSecond>
+    <BitsPerSample>16</BitsPerSample>
+    <AudioBitrate>0</AudioBitrate>
+  </AudioSetting>
+  <AJASettings>
+    <AJASettingsEnable>TRUE</AJASettingsEnable>
+    <AJACardReference>1</AJACardReference>
+  </AJASettings>
+</DocumentElement>

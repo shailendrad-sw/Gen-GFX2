@@ -1,0 +1,28 @@
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x86\Debug\MBIV Graphic Server.exe.config
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x86\Debug\MBIV Graphic Server.exe
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x86\Debug\MBIV Graphic Server.pdb
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x86\Debug\Interop.MCHROMAKEYLib.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x86\Debug\Interop.MFORMATSLib.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x86\Debug\Interop.MLCHARGENLib.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x86\Debug\Interop.MLPROXYLib.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x86\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\bin\x86\Debug\MySql.Data.dll
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.Aboutus.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.ChannelConfig.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.FrmMainServer.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.Graphicscontrol.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.GridForm.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.HeaderMenu.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.mainform.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.manualgraphicsload.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.MessageForm.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.Properties.Resources.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.Render.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.Renderout.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.SelectChannels.resources
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\graphicserver.csproj.GenerateResource.Cache
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\MBIV Graphic Server.exe
+D:\Projects\working\Samplegraphics\graphicserver - Copy\graphicserver\obj\x86\Debug\MBIV Graphic Server.pdb
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\bin\x86\Debug\MBIV Graphic Server.exe.config
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Debug\MBIV Graphic Server.exe
+D:\Project\Working\VCPLUS\CloudX Graphics Engine\graphicserver\obj\x86\Debug\MBIV Graphic Server.pdb
